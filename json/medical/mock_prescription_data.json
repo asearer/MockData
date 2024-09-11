@@ -1,0 +1,105 @@
+{
+    "prescriptions": [
+      {
+        "prescription_id": 5001,
+        "patient_id": 10001,
+        "doctor_id": 2001,
+        "drug_name": "Metformin",
+        "dosage": "500mg",
+        "quantity": 30,
+        "prescription_date": "2023-07-12",
+        "refills": 2
+      },
+      {
+        "prescription_id": 5002,
+        "patient_id": 10002,
+        "doctor_id": 2002,
+        "drug_name": "Albuterol",
+        "dosage": "90mcg",
+        "quantity": 1,
+        "prescription_date": "2023-08-23",
+        "refills": 1
+      },
+      {
+        "prescription_id": 5003,
+        "patient_id": 10003,
+        "doctor_id": 2003,
+        "drug_name": "Atorvastatin",
+        "dosage": "40mg",
+        "quantity": 30,
+        "prescription_date": "2023-09-01",
+        "refills": 3
+      },
+      {
+        "prescription_id": 5004,
+        "patient_id": 10004,
+        "doctor_id": 2001,
+        "drug_name": "Ibuprofen",
+        "dosage": "200mg",
+        "quantity": 60,
+        "prescription_date": "2023-06-15",
+        "refills": 2
+      },
+      {
+        "prescription_id": 5005,
+        "patient_id": 10005,
+        "doctor_id": 2004,
+        "drug_name": "Orlistat",
+        "dosage": "120mg",
+        "quantity": 30,
+        "prescription_date": "2023-07-20",
+        "refills": 1
+      },
+      {
+        "prescription_id": 5006,
+        "patient_id": 10006,
+        "doctor_id": 2002,
+        "drug_name": "Sertraline",
+        "dosage": "50mg",
+        "quantity": 30,
+        "prescription_date": "2023-09-10",
+        "refills": 2
+      },
+      {
+        "prescription_id": 5007,
+        "patient_id": 10007,
+        "doctor_id": 2003,
+        "drug_name": "Aspirin",
+        "dosage": "81mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-05",
+        "refills": 0
+      },
+      {
+        "prescription_id": 5008,
+        "patient_id": 10008,
+        "doctor_id": 2001,
+        "drug_name": "Levothyroxine",
+        "dosage": "75mcg",
+        "quantity": 30,
+        "prescription_date": "2023-07-28",
+        "refills": 1
+      },
+      {
+        "prescription_id": 5009,
+        "patient_id": 10009,
+        "doctor_id": 2004,
+        "drug_name": "Lisinopril",
+        "dosage": "10mg",
+        "quantity": 30,
+        "prescription_date": "2023-06-30",
+        "refills": 2
+      },
+      {
+        "prescription_id": 5010,
+        "patient_id": 10010,
+        "doctor_id": 2002,
+        "drug_name": "Sumatriptan",
+        "dosage": "50mg",
+        "quantity": 9,
+        "prescription_date": "2023-08-17",
+        "refills": 1
+      }
+    ]
+  }
+  

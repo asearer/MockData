@@ -1,0 +1,115 @@
+{
+    "sales": [
+      {
+        "transaction_id": 1001,
+        "customer_id": 201,
+        "product_id": 501,
+        "date": "2023-01-15",
+        "sales_channel": "Online",
+        "units_sold": 3,
+        "price_per_unit": 25.0,
+        "total_sales": 75.0,
+        "customer_location": "New York"
+      },
+      {
+        "transaction_id": 1002,
+        "customer_id": 202,
+        "product_id": 502,
+        "date": "2023-01-16",
+        "sales_channel": "In-Store",
+        "units_sold": 1,
+        "price_per_unit": 150.0,
+        "total_sales": 150.0,
+        "customer_location": "California"
+      },
+      {
+        "transaction_id": 1003,
+        "customer_id": 203,
+        "product_id": 503,
+        "date": "2023-01-17",
+        "sales_channel": "Online",
+        "units_sold": 2,
+        "price_per_unit": 45.0,
+        "total_sales": 90.0,
+        "customer_location": "Texas"
+      },
+      {
+        "transaction_id": 1004,
+        "customer_id": 204,
+        "product_id": 504,
+        "date": "2023-01-18",
+        "sales_channel": "In-Store",
+        "units_sold": 5,
+        "price_per_unit": 30.0,
+        "total_sales": 150.0,
+        "customer_location": "Florida"
+      },
+      {
+        "transaction_id": 1005,
+        "customer_id": 205,
+        "product_id": 505,
+        "date": "2023-01-19",
+        "sales_channel": "Online",
+        "units_sold": 10,
+        "price_per_unit": 20.0,
+        "total_sales": 200.0,
+        "customer_location": "Illinois"
+      },
+      {
+        "transaction_id": 1006,
+        "customer_id": 206,
+        "product_id": 506,
+        "date": "2023-01-20",
+        "sales_channel": "In-Store",
+        "units_sold": 4,
+        "price_per_unit": 60.0,
+        "total_sales": 240.0,
+        "customer_location": "New York"
+      },
+      {
+        "transaction_id": 1007,
+        "customer_id": 207,
+        "product_id": 507,
+        "date": "2023-01-21",
+        "sales_channel": "Online",
+        "units_sold": 3,
+        "price_per_unit": 120.0,
+        "total_sales": 360.0,
+        "customer_location": "Texas"
+      },
+      {
+        "transaction_id": 1008,
+        "customer_id": 208,
+        "product_id": 508,
+        "date": "2023-01-22",
+        "sales_channel": "In-Store",
+        "units_sold": 7,
+        "price_per_unit": 85.0,
+        "total_sales": 595.0,
+        "customer_location": "Florida"
+      },
+      {
+        "transaction_id": 1009,
+        "customer_id": 209,
+        "product_id": 509,
+        "date": "2023-01-23",
+        "sales_channel": "Online",
+        "units_sold": 2,
+        "price_per_unit": 35.0,
+        "total_sales": 70.0,
+        "customer_location": "California"
+      },
+      {
+        "transaction_id": 1010,
+        "customer_id": 210,
+        "product_id": 510,
+        "date": "2023-01-24",
+        "sales_channel": "In-Store",
+        "units_sold": 6,
+        "price_per_unit": 50.0,
+        "total_sales": 300.0,
+        "customer_location": "Illinois"
+      }
+    ]
+  }
+  

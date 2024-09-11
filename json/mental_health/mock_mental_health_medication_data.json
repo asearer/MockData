@@ -1,0 +1,95 @@
+{
+    "medications": [
+      {
+        "prescription_id": 6001,
+        "patient_id": 10001,
+        "medication": "Sertraline",
+        "dosage": "50mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-25",
+        "refills": 2
+      },
+      {
+        "prescription_id": 6002,
+        "patient_id": 10002,
+        "medication": "Lamotrigine",
+        "dosage": "100mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-10",
+        "refills": 1
+      },
+      {
+        "prescription_id": 6003,
+        "patient_id": 10003,
+        "medication": "Fluoxetine",
+        "dosage": "20mg",
+        "quantity": 30,
+        "prescription_date": "2023-07-29",
+        "refills": 3
+      },
+      {
+        "prescription_id": 6004,
+        "patient_id": 10004,
+        "medication": "Clomipramine",
+        "dosage": "25mg",
+        "quantity": 30,
+        "prescription_date": "2023-07-05",
+        "refills": 0
+      },
+      {
+        "prescription_id": 6005,
+        "patient_id": 10005,
+        "medication": "Paroxetine",
+        "dosage": "40mg",
+        "quantity": 30,
+        "prescription_date": "2023-09-01",
+        "refills": 2
+      },
+      {
+        "prescription_id": 6006,
+        "patient_id": 10006,
+        "medication": "Escitalopram",
+        "dosage": "10mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-05",
+        "refills": 1
+      },
+      {
+        "prescription_id": 6007,
+        "patient_id": 10007,
+        "medication": "Sertraline",
+        "dosage": "50mg",
+        "quantity": 30,
+        "prescription_date": "2023-07-15",
+        "refills": 2
+      },
+      {
+        "prescription_id": 6008,
+        "patient_id": 10008,
+        "medication": "Risperidone",
+        "dosage": "2mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-20",
+        "refills": 0
+      },
+      {
+        "prescription_id": 6009,
+        "patient_id": 10009,
+        "medication": "Clonazepam",
+        "dosage": "1mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-10",
+        "refills": 1
+      },
+      {
+        "prescription_id": 6010,
+        "patient_id": 10010,
+        "medication": "Venlafaxine",
+        "dosage": "75mg",
+        "quantity": 30,
+        "prescription_date": "2023-08-25",
+        "refills": 2
+      }
+    ]
+  }
+  

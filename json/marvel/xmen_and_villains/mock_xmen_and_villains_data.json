@@ -1,0 +1,283 @@
+{
+    "xmen": [
+        {
+            "id": "1",
+            "name": "Wolverine",
+            "real_name": "Logan",
+            "team_affiliation": "X-Men",
+            "powers": ["Regenerative healing", "Adamantium claws", "Enhanced senses"],
+            "notable_traits": ["Fierce fighter", "Longevity"],
+            "skills": ["Expert hand-to-hand combatant", "Survival skills"],
+            "allies": ["X-Men", "X-Force"],
+            "enemies": ["Sabretooth", "The Hand"],
+            "first_appearance": "The Incredible Hulk #180 (1974)",
+            "appearances": ["X-Men Origins: Wolverine (2009)", "Logan (2017)"],
+            "origin": "Created by Roy Thomas, Len Wein, and John Romita Sr.",
+            "base_of_operations": "X-Mansion",
+            "notable_vehicles": ["Blackbird"],
+            "alter_egos": [
+                {
+                    "name": "Old Man Logan",
+                    "real_name": "Logan",
+                    "description": "An older version of Wolverine from an alternate future where superheroes have been largely defeated."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Storm",
+            "real_name": "Ororo Munroe",
+            "team_affiliation": "X-Men",
+            "powers": ["Weather manipulation", "Flight"],
+            "notable_traits": ["Queen of Wakanda", "Leader of X-Men"],
+            "skills": ["Strategic leadership", "Combat training"],
+            "allies": ["Black Panther", "X-Men"],
+            "enemies": ["Frost Giants", "Cassandra Nova"],
+            "first_appearance": "Giant-Size X-Men #1 (1975)",
+            "appearances": ["X-Men (2000)", "Black Panther (2018)"],
+            "origin": "Created by Len Wein and Dave Cockrum",
+            "base_of_operations": "X-Mansion",
+            "notable_vehicles": ["X-Jet"],
+            "alter_egos": [
+                {
+                    "name": "Storm (Morlock)",
+                    "real_name": "Ororo Munroe",
+                    "description": "A version of Storm who lived among the Morlocks in the sewers before joining the X-Men."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Cyclops",
+            "real_name": "Scott Summers",
+            "team_affiliation": "X-Men",
+            "powers": ["Optic blasts", "Leadership skills"],
+            "notable_traits": ["Strategist", "Former X-Men leader"],
+            "skills": ["Tactical planning", "Expert marksmanship"],
+            "allies": ["X-Men", "New X-Men"],
+            "enemies": ["Magneto", "Apocalypse"],
+            "first_appearance": "X-Men #1 (1963)",
+            "appearances": ["X-Men (2000)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Stan Lee and Jack Kirby",
+            "base_of_operations": "X-Mansion",
+            "notable_vehicles": ["X-Jet"],
+            "alter_egos": [
+                {
+                    "name": "Cyclops (Ultimate)",
+                    "real_name": "Scott Summers",
+                    "description": "An alternate version of Cyclops from the Ultimate Marvel universe with different origin and personality."
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Jean Grey",
+            "real_name": "Jean Grey",
+            "team_affiliation": "X-Men",
+            "powers": ["Telepathy", "Telekinesis"],
+            "notable_traits": ["Host of the Phoenix Force", "Powerful psychic"],
+            "skills": ["Telepathic communication", "Psychic manipulation"],
+            "allies": ["X-Men", "Fantastic Four"],
+            "enemies": ["Mastermind", "Dark Phoenix"],
+            "first_appearance": "X-Men #1 (1963)",
+            "appearances": ["X-Men (2000)", "X-Men: The Last Stand (2006)"],
+            "origin": "Created by Stan Lee and Jack Kirby",
+            "base_of_operations": "X-Mansion",
+            "notable_vehicles": ["X-Jet"],
+            "alter_egos": [
+                {
+                    "name": "Dark Phoenix",
+                    "real_name": "Jean Grey",
+                    "description": "An alternate version of Jean Grey under the influence of the Phoenix Force, representing her darker, more destructive side."
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Beast",
+            "real_name": "Henry 'Hank' McCoy",
+            "team_affiliation": "X-Men",
+            "powers": ["Superhuman strength", "Enhanced agility", "Intelligence"],
+            "notable_traits": ["Scientific genius", "Physical mutation"],
+            "skills": ["Advanced scientific knowledge", "Physical combat"],
+            "allies": ["X-Men", "Avengers"],
+            "enemies": ["The Master", "Marauders"],
+            "first_appearance": "X-Men #1 (1963)",
+            "appearances": ["X-Men (2000)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Stan Lee and Jack Kirby",
+            "base_of_operations": "X-Mansion",
+            "notable_vehicles": ["X-Jet"],
+            "alter_egos": [
+                {
+                    "name": "Beast (Ultimate)",
+                    "real_name": "Henry McCoy",
+                    "description": "An alternate version of Beast from the Ultimate Marvel universe with enhanced abilities and a more brutish appearance."
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Rogue",
+            "real_name": "Anna Marie",
+            "team_affiliation": "X-Men",
+            "powers": ["Absorption of powers", "Flight"],
+            "notable_traits": ["Struggles with power control", "Southern accent"],
+            "skills": ["Combat training", "Power absorption"],
+            "allies": ["X-Men", "Avengers"],
+            "enemies": ["Mystique", "Brotherhood of Evil Mutants"],
+            "first_appearance": "Avengers Annual #10 (1981)",
+            "appearances": ["X-Men (2000)", "X-Men: The Last Stand (2006)"],
+            "origin": "Created by Michael Golden and Chris Claremont",
+            "base_of_operations": "X-Mansion",
+            "notable_vehicles": ["X-Jet"],
+            "alter_egos": [
+                {
+                    "name": "Ms. Marvel",
+                    "real_name": "Anna Marie",
+                    "description": "An identity Rogue assumes after absorbing the powers and memories of Ms. Marvel (Carol Danvers)."
+                }
+            ]
+        }
+    ],
+    "villains": [
+        {
+            "id": "1",
+            "name": "Magneto",
+            "real_name": "Max Eisenhardt",
+            "team_affiliation": "Brotherhood of Evil Mutants",
+            "powers": ["Magnetism manipulation", "Metal control"],
+            "notable_traits": ["Master of magnetism", "Leader of the Brotherhood"],
+            "skills": ["Magnetic field manipulation", "Tactical genius"],
+            "allies": ["Mystique", "Sabretooth"],
+            "enemies": ["X-Men", "Avengers"],
+            "first_appearance": "X-Men #1 (1963)",
+            "appearances": ["X-Men (2000)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Stan Lee and Jack Kirby",
+            "base_of_operations": "Asteroid M",
+            "notable_vehicles": ["Asteroid M", "Magneto's Jet"],
+            "alter_egos": [
+                {
+                    "name": "Magneto the Red",
+                    "real_name": "Max Eisenhardt",
+                    "description": "An alternate version of Magneto with a more aggressive and authoritarian personality."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Mystique",
+            "real_name": "Raven Darkhölme",
+            "team_affiliation": "Brotherhood of Evil Mutants",
+            "powers": ["Shapeshifting", "Expert combatant"],
+            "notable_traits": ["Skilled infiltrator", "Master of disguise"],
+            "skills": ["Stealth", "Deception"],
+            "allies": ["Magneto", "Sabretooth"],
+            "enemies": ["X-Men", "S.H.I.E.L.D."],
+            "first_appearance": "Ms. Marvel #16 (1978)",
+            "appearances": ["X-Men (2000)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Chris Claremont and Frank Robbins",
+            "base_of_operations": "Brotherhood Hideout",
+            "notable_vehicles": ["Mystique's Van"],
+            "alter_egos": [
+                {
+                    "name": "Raven Darkhölme (Mystique)",
+                    "real_name": "Raven Darkhölme",
+                    "description": "The primary identity of Mystique, reflecting her core character and role in the Brotherhood."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Sabretooth",
+            "real_name": "Victor Creed",
+            "team_affiliation": "Various",
+            "powers": ["Superhuman strength", "Regeneration", "Enhanced senses"],
+            "notable_traits": ["Wolverine's rival", "Ferocious fighter"],
+            "skills": ["Combat prowess", "Tracking"],
+            "allies": ["Marauders", "Omega Red"],
+            "enemies": ["Wolverine", "X-Men"],
+            "first_appearance": "Iron Fist #14 (1977)",
+            "appearances": ["X-Men Origins: Wolverine (2009)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Chris Claremont and Frank Miller",
+            "base_of_operations": "Various hideouts",
+            "notable_vehicles": ["None"],
+            "alter_egos": [
+                {
+                    "name": "Victor Creed (Ultimate)",
+                    "real_name": "Victor Creed",
+                    "description": "An alternate version of Sabretooth from the Ultimate Marvel universe with a more feral and brutal nature."
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Apocalypse",
+            "real_name": "En Sabah Nur",
+            "team_affiliation": "Apocalypse's Four Horsemen",
+            "powers": ["Molecular manipulation", "Immortality", "Shape-shifting"],
+            "notable_traits": ["Ancient mutant", "Seeks to evolve humanity"],
+            "skills": ["Ancient knowledge", "Leadership"],
+            "allies": ["Four Horsemen", "Sinister"],
+            "enemies": ["X-Men", "Avengers"],
+            "first_appearance": "X-Factor #5 (1986)",
+            "appearances": ["X-Men: Apocalypse (2016)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Louise Simonson and Jackson Guice",
+            "base_of_operations": "Egypt",
+            "notable_vehicles": ["None"],
+            "alter_egos": [
+                {
+                    "name": "En Sabah Nur (Ancient)",
+                    "real_name": "En Sabah Nur",
+                    "description": "An earlier form of Apocalypse from ancient times with slightly different powers and appearance."
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Sinister",
+            "real_name": "Nathaniel Essex",
+            "team_affiliation": "Various",
+            "powers": ["Genetic manipulation", "Superhuman strength"],
+            "notable_traits": ["Master of genetics", "Cloning specialist"],
+            "skills": ["Genetic engineering", "Strategic planning"],
+            "allies": ["Marauders", "Madelyne Pryor"],
+            "enemies": ["X-Men", "Fantastic Four"],
+            "first_appearance": "The Uncanny X-Men #221 (1987)",
+            "appearances": ["X-Men (2000)", "X-Men: The Animated Series"],
+            "origin": "Created by Chris Claremont and Marc Silvestri",
+            "base_of_operations": "Sinister's Lair",
+            "notable_vehicles": ["None"],
+            "alter_egos": [
+                {
+                    "name": "Nathaniel Essex (Ultimate)",
+                    "real_name": "Nathaniel Essex",
+                    "description": "An alternate version of Sinister from the Ultimate Marvel universe with a more ruthless and technologically advanced approach."
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Sentinels",
+            "real_name": "N/A",
+            "team_affiliation": "Sentinel Program",
+            "powers": ["Mutant hunting", "Advanced robotics"],
+            "notable_traits": ["Anti-mutant robots", "Designed to control mutants"],
+            "skills": ["Adaptive combat", "Surveillance"],
+            "allies": ["Master Mold"],
+            "enemies": ["X-Men", "Mutants"],
+            "first_appearance": "X-Men #14 (1965)",
+            "appearances": ["X-Men (2000)", "X-Men: Days of Future Past (2014)"],
+            "origin": "Created by Stan Lee and Jack Kirby",
+            "base_of_operations": "Sentinel Factory",
+            "notable_vehicles": ["Sentinel Drones"],
+            "alter_egos": [
+                {
+                    "name": "Sentinel (Ultimate)",
+                    "real_name": "N/A",
+                    "description": "An alternate version of the Sentinels from the Ultimate Marvel universe with more advanced technology and capabilities."
+                }
+            ]
+        }
+    ]
+}
+

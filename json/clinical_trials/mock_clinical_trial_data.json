@@ -1,0 +1,60 @@
+{
+    "clinical_trials": [
+      {
+        "trial_id": 3001,
+        "trial_name": "Diabetes Medication Efficacy",
+        "phase": "Phase 3",
+        "start_date": "2022-01-15",
+        "end_date": "2023-12-15",
+        "participants_enrolled": 150,
+        "status": "Ongoing",
+        "primary_outcome": "Reduction in HbA1c levels",
+        "principal_investigator": "Dr. Emily Clark"
+      },
+      {
+        "trial_id": 3002,
+        "trial_name": "Asthma Treatment in Adolescents",
+        "phase": "Phase 2",
+        "start_date": "2021-06-01",
+        "end_date": "2023-11-30",
+        "participants_enrolled": 80,
+        "status": "Completed",
+        "primary_outcome": "Improvement in lung function",
+        "principal_investigator": "Dr. Michael Jones"
+      },
+      {
+        "trial_id": 3003,
+        "trial_name": "Cholesterol-Lowering Drug",
+        "phase": "Phase 4",
+        "start_date": "2020-09-01",
+        "end_date": "2023-09-01",
+        "participants_enrolled": 200,
+        "status": "Completed",
+        "primary_outcome": "Decrease in LDL cholesterol",
+        "principal_investigator": "Dr. Robert Lee"
+      },
+      {
+        "trial_id": 3004,
+        "trial_name": "Cancer Immunotherapy Study",
+        "phase": "Phase 1",
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "participants_enrolled": 50,
+        "status": "Ongoing",
+        "primary_outcome": "Tumor size reduction",
+        "principal_investigator": "Dr. Sarah Green"
+      },
+      {
+        "trial_id": 3005,
+        "trial_name": "Hypertension Management in Elderly",
+        "phase": "Phase 2",
+        "start_date": "2022-03-01",
+        "end_date": "2024-03-01",
+        "participants_enrolled": 120,
+        "status": "Ongoing",
+        "primary_outcome": "Blood pressure control",
+        "principal_investigator": "Dr. Emily Clark"
+      }
+    ]
+  }
+  

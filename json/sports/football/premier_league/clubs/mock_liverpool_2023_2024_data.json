@@ -1,0 +1,428 @@
+{
+    "club": {
+      "id": "2",
+      "name": "Liverpool FC",
+      "short_name": "LIV",
+      "stadium": "Anfield",
+      "manager": "Jürgen Klopp",
+      "founded": 1892,
+      "country": "England",
+      "colors": ["Red", "White"],
+      "website": "https://www.liverpoolfc.com"
+    },
+    "players": [
+      {
+        "id": "1",
+        "name": "Mohamed Salah",
+        "position": "Forward",
+        "nationality": "Egyptian",
+        "goals": 22,
+        "assists": 9,
+        "appearances": 36,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2025-06-30"
+      },
+      {
+        "id": "2",
+        "name": "Virgil van Dijk",
+        "position": "Defender",
+        "nationality": "Dutch",
+        "goals": 5,
+        "assists": 2,
+        "appearances": 34,
+        "yellow_cards": 6,
+        "red_cards": 1,
+        "injuries": [
+          {
+            "type": "Knee",
+            "start_date": "2023-10-15",
+            "end_date": "2023-11-30"
+          }
+        ],
+        "contract_expires": "2026-06-30"
+      },
+      {
+        "id": "3",
+        "name": "Alisson Becker",
+        "position": "Goalkeeper",
+        "nationality": "Brazilian",
+        "goals": 0,
+        "assists": 0,
+        "appearances": 36,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2026-06-30"
+      },
+      {
+        "id": "4",
+        "name": "Trent Alexander-Arnold",
+        "position": "Defender",
+        "nationality": "English",
+        "goals": 2,
+        "assists": 12,
+        "appearances": 35,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2027-06-30"
+      },
+      {
+        "id": "5",
+        "name": "Fabinho",
+        "position": "Midfielder",
+        "nationality": "Brazilian",
+        "goals": 3,
+        "assists": 4,
+        "appearances": 34,
+        "yellow_cards": 8,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2026-06-30"
+      },
+      {
+        "id": "6",
+        "name": "Andy Robertson",
+        "position": "Defender",
+        "nationality": "Scottish",
+        "goals": 1,
+        "assists": 10,
+        "appearances": 34,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2025-06-30"
+      },
+      {
+        "id": "7",
+        "name": "Jordan Henderson",
+        "position": "Midfielder",
+        "nationality": "English",
+        "goals": 4,
+        "assists": 5,
+        "appearances": 33,
+        "yellow_cards": 7,
+        "red_cards": 1,
+        "injuries": [],
+        "contract_expires": "2024-06-30"
+      },
+      {
+        "id": "8",
+        "name": "Luis Díaz",
+        "position": "Forward",
+        "nationality": "Colombian",
+        "goals": 8,
+        "assists": 6,
+        "appearances": 32,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "injuries": [
+          {
+            "type": "Hamstring",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-15"
+          }
+        ],
+        "contract_expires": "2027-06-30"
+      },
+      {
+        "id": "9",
+        "name": "James Milner",
+        "position": "Midfielder",
+        "nationality": "English",
+        "goals": 2,
+        "assists": 3,
+        "appearances": 28,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2024-06-30"
+      },
+      {
+        "id": "10",
+        "name": "Thiago Alcântara",
+        "position": "Midfielder",
+        "nationality": "Spanish",
+        "goals": 5,
+        "assists": 7,
+        "appearances": 30,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "injuries": [
+          {
+            "type": "Groin",
+            "start_date": "2023-02-20",
+            "end_date": "2023-03-10"
+          }
+        ],
+        "contract_expires": "2025-06-30"
+      },
+      {
+        "id": "11",
+        "name": "Joel Matip",
+        "position": "Defender",
+        "nationality": "Cameroonian",
+        "goals": 3,
+        "assists": 1,
+        "appearances": 31,
+        "yellow_cards": 4,
+        "red_cards": 0,
+        "injuries": [
+          {
+            "type": "Ankle",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-10"
+          }
+        ],
+        "contract_expires": "2025-06-30"
+      },
+      {
+        "id": "12",
+        "name": "Ibrahima Konaté",
+        "position": "Defender",
+        "nationality": "French",
+        "goals": 1,
+        "assists": 1,
+        "appearances": 29,
+        "yellow_cards": 5,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2026-06-30"
+      },
+      {
+        "id": "13",
+        "name": "Darwin Núñez",
+        "position": "Forward",
+        "nationality": "Uruguayan",
+        "goals": 15,
+        "assists": 4,
+        "appearances": 33,
+        "yellow_cards": 6,
+        "red_cards": 1,
+        "injuries": [],
+        "contract_expires": "2027-06-30"
+      },
+      {
+        "id": "14",
+        "name": "Roberto Firmino",
+        "position": "Forward",
+        "nationality": "Brazilian",
+        "goals": 7,
+        "assists": 6,
+        "appearances": 30,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "injuries": [
+          {
+            "type": "Hamstring",
+            "start_date": "2023-03-20",
+            "end_date": "2023-05-10"
+          }
+        ],
+        "contract_expires": "2025-06-30"
+      },
+      {
+        "id": "15",
+        "name": "Kostas Tsimikas",
+        "position": "Defender",
+        "nationality": "Greek",
+        "goals": 1,
+        "assists": 2,
+        "appearances": 27,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2025-06-30"
+      },
+      {
+        "id": "16",
+        "name": "Joe Gomez",
+        "position": "Defender",
+        "nationality": "English",
+        "goals": 2,
+        "assists": 3,
+        "appearances": 26,
+        "yellow_cards": 2,
+        "red_cards": 1,
+        "injuries": [],
+        "contract_expires": "2026-06-30"
+      },
+      {
+        "id": "17",
+        "name": "Harvey Elliott",
+        "position": "Midfielder",
+        "nationality": "English",
+        "goals": 3,
+        "assists": 5,
+        "appearances": 28,
+        "yellow_cards": 2,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2027-06-30"
+      },
+      {
+        "id": "18",
+        "name": "Curtis Jones",
+        "position": "Midfielder",
+        "nationality": "English",
+        "goals": 6,
+        "assists": 4,
+        "appearances": 29,
+        "yellow_cards": 3,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2026-06-30"
+      },
+      {
+        "id": "19",
+        "name": "Ben Doak",
+        "position": "Forward",
+        "nationality": "Scottish",
+        "goals": 2,
+        "assists": 1,
+        "appearances": 15,
+        "yellow_cards": 1,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2027-06-30"
+      },
+      {
+        "id": "20",
+        "name": "Caoimhín Kelleher",
+        "position": "Goalkeeper",
+        "nationality": "Irish",
+        "goals": 0,
+        "assists": 0,
+        "appearances": 5,
+        "yellow_cards": 0,
+        "red_cards": 0,
+        "injuries": [],
+        "contract_expires": "2026-06-30"
+      }
+      
+    ],
+    "seasonal_stats": {
+      "total_wins": 24,
+      "total_draws": 7,
+      "total_losses": 7,
+      "goals_for": 78,
+      "goals_against": 34,
+      "goal_difference": 44,
+      "points": 79
+    },
+    "final_stats": {
+      "position": 3,
+      "wins": 24,
+      "draws": 7,
+      "losses": 7,
+      "goals_for": 78,
+      "goals_against": 34,
+      "goal_difference": 44,
+      "points": 79
+    },
+    "penalties": [
+      {
+        "match_id": "1",
+        "opponent": "Manchester United",
+        "penalty_type": "Penalty Kick",
+        "reason": "Handball in the penalty area",
+        "extra_time": 2
+      },
+      {
+        "match_id": "2",
+        "opponent": "Everton",
+        "penalty_type": "Penalty Kick",
+        "reason": "Foul in the penalty area",
+        "extra_time": 1
+      },
+      {
+        "match_id": "3",
+        "opponent": "Chelsea",
+        "penalty_type": "Free Kick",
+        "reason": "Foul outside the penalty area",
+        "extra_time": 1
+      },
+      {
+        "match_id": "4",
+        "opponent": "Tottenham Hotspur",
+        "penalty_type": "Penalty Kick",
+        "reason": "Foul in the penalty area",
+        "extra_time": 4
+      },
+      {
+        "match_id": "5",
+        "opponent": "Arsenal",
+        "penalty_type": "Free Kick",
+        "reason": "Foul outside the penalty area",
+        "extra_time": 2
+      }
+      
+    ],
+    "total_extra_time": 11,
+    "extra_time_per_match": [
+      {
+        "match_id": "1",
+        "opponent": "Manchester United",
+        "extra_time": 2,
+        "penalties": [
+          {
+            "penalty_type": "Penalty Kick",
+            "reason": "Handball in the penalty area",
+            "extra_time": 2
+          }
+        ]
+      },
+      {
+        "match_id": "2",
+        "opponent": "Everton",
+        "extra_time": 1,
+        "penalties": [
+          {
+            "penalty_type": "Penalty Kick",
+            "reason": "Foul in the penalty area",
+            "extra_time": 1
+          }
+        ]
+      },
+      {
+        "match_id": "3",
+        "opponent": "Chelsea",
+        "extra_time": 1,
+        "penalties": [
+          {
+            "penalty_type": "Free Kick",
+            "reason": "Foul outside the penalty area",
+            "extra_time": 1
+          }
+        ]
+      },
+      {
+        "match_id": "4",
+        "opponent": "Tottenham Hotspur",
+        "extra_time": 4,
+        "penalties": [
+          {
+            "penalty_type": "Penalty Kick",
+            "reason": "Foul in the penalty area",
+            "extra_time": 4
+          }
+        ]
+      },
+      {
+        "match_id": "5",
+        "opponent": "Arsenal",
+        "extra_time": 2,
+        "penalties": [
+          {
+            "penalty_type": "Free Kick",
+            "reason": "Foul outside the penalty area",
+            "extra_time": 2
+          }
+        ]
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,654 @@
+{
+    "heroes": [
+      {
+        "id": "1",
+        "name": "Iron Man",
+        "real_name": "Tony Stark",
+        "aliases": ["Shellhead", "Stark"],
+        "team_affiliation": ["Avengers", "S.H.I.E.L.D.", "The Invincible Iron Man"],
+        "powers": {
+          "armor_technology": ["Powered armor suit", "Flight", "Energy repulsors"],
+          "intellect": ["Genius-level intellect", "Expert engineer and scientist"],
+          "combat_skills": ["Hand-to-hand combat", "Strategic planning"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Tales of Suspense #39 (1963)",
+            "background": "Tony Stark, a wealthy industrialist and genius inventor, builds a high-tech suit of armor to save his life and becomes the superhero Iron Man. He later uses his technology and resources to fight evil and protect the world."
+          },
+          "mcu": {
+            "first_appearance": "Iron Man (2008)",
+            "background": "Tony Stark, after being captured by terrorists and building a suit to escape, decides to use his technology for good. His journey from a self-absorbed billionaire to a selfless hero forms the core of his character."
+          }
+        },
+        "notable_traits": ["Charismatic", "Technologically savvy", "Occasionally arrogant"],
+        "key_moments": {
+          "comics": [
+            "Demon in a Bottle (1979): Explores Tony Stark's struggle with alcoholism and its impact on his life and career.",
+            "Civil War (2006): Tony Stark plays a major role in the superhero registration act, leading to a conflict with Captain America."
+          ],
+          "mcu": [
+            "Avengers: Endgame (2019): Tony Stark sacrifices himself to defeat Thanos and save the universe, completing his character arc."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "Iron Man (2008)",
+            "The Avengers (2012)",
+            "Iron Man 2 (2010)",
+            "Avengers: Age of Ultron (2015)",
+            "Iron Man 3 (2013)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+          ],
+          "comics": [
+            "Tales of Suspense #39",
+            "Iron Man Vol. 1 #1",
+            "Iron Man: Extremis (2005)"
+          ],
+          "animated_series": [
+            "Iron Man: The Animated Series (1994-1996)",
+            "Avengers: Earth's Mightiest Heroes (2010-2013)",
+            "Avengers Assemble (2013-2019)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "Iron Man VR (2020)",
+            "LEGO Marvel Super Heroes (2013)"
+          ]
+        },
+        "allies": [
+          "Captain America",
+          "Thor",
+          "Black Widow",
+          "War Machine",
+          "Spider-Man"
+        ],
+        "enemies": [
+          "Mandarin",
+          "Obadiah Stane",
+          "Ultron",
+          "Thanos"
+        ],
+        "romantic_interests": ["Pepper Potts"],
+        "weapons": [
+          {
+            "name": "Repulsor Rays",
+            "description": "Energy blasts emitted from the palms of the armor."
+          },
+          {
+            "name": "Unibeam",
+            "description": "Powerful energy beam emitted from the chest of the armor."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Captain America",
+        "real_name": "Steve Rogers",
+        "aliases": ["Cap", "Steve"],
+        "team_affiliation": ["Avengers", "S.H.I.E.L.D.", "Invaders"],
+        "powers": {
+          "super_soldier": ["Enhanced strength", "Agility", "Stamina"],
+          "combat_skills": ["Expert hand-to-hand combatant", "Master strategist"],
+          "shield": ["Indestructible shield", "Skilled with shield in combat"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Captain America Comics #1 (1941)",
+            "background": "Steve Rogers, a frail young man, is injected with the Super-Soldier Serum during World War II, transforming him into the peak of human physicality. He becomes Captain America, fighting against the Axis powers and later leading the Avengers."
+          },
+          "mcu": {
+            "first_appearance": "Captain America: The First Avenger (2011)",
+            "background": "Steve Rogers volunteers for an experimental serum that enhances his physical abilities. He fights in World War II as Captain America and later emerges from ice to join the Avengers in the modern era."
+          }
+        },
+        "notable_traits": ["Patriotism", "Leadership", "Moral integrity"],
+        "key_moments": {
+          "comics": [
+            "The Winter Soldier (2005): Captain America uncovers the truth about his old friend Bucky Barnes and his transformation into the Winter Soldier.",
+            "Civil War (2006): Steve Rogers opposes the Superhero Registration Act, leading to a major conflict with Tony Stark."
+          ],
+          "mcu": [
+            "Captain America: Civil War (2016): Steve Rogers leads a faction of Avengers against the Sokovia Accords, resulting in a split within the team.",
+            "Avengers: Endgame (2019): Captain America returns the Infinity Stones and decides to live out his life with Peggy Carter, passing on his shield to Sam Wilson."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "Captain America: The First Avenger (2011)",
+            "The Avengers (2012)",
+            "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+          ],
+          "comics": [
+            "Captain America Comics #1",
+            "Captain America Vol. 1 #1",
+            "The Winter Soldier (2005)",
+            "Civil War (2006)"
+          ],
+          "animated_series": [
+            "The Marvel Super Heroes (1966)",
+            "Avengers: Earth's Mightiest Heroes (2010-2013)",
+            "Avengers Assemble (2013-2019)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "Captain America: Super Soldier (2011)",
+            "LEGO Marvel Super Heroes (2013)"
+          ]
+        },
+        "allies": [
+          "Iron Man",
+          "Thor",
+          "Black Widow",
+          "Falcon",
+          "Bucky Barnes"
+        ],
+        "enemies": [
+          "Red Skull",
+          "Hydra",
+          "Baron Zemo",
+          "The Winter Soldier"
+        ],
+        "romantic_interests": ["Peggy Carter", "Sharon Carter"],
+        "weapons": [
+          {
+            "name": "Vibranium Shield",
+            "description": "An indestructible shield used for defense and offense."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Thor",
+        "real_name": "Thor Odinson",
+        "aliases": ["God of Thunder", "Son of Odin"],
+        "team_affiliation": ["Avengers", "Asgardians", "Guardians of the Galaxy"],
+        "powers": {
+          "godly_abilities": ["Superhuman strength", "Invulnerability", "Longevity"],
+          "elemental_control": ["Control over lightning", "Weather manipulation"],
+          "weapon": ["Mjolnir", "Stormbreaker"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Journey into Mystery #83 (1962)",
+            "background": "Thor, the Norse God of Thunder, is the son of Odin and ruler of Asgard. He wields the mystical hammer Mjolnir, which grants him the power of flight and control over lightning."
+          },
+          "mcu": {
+            "first_appearance": "Thor (2011)",
+            "background": "Thor is introduced as the arrogant prince of Asgard who is exiled to Earth. Through his journey, he learns humility and becomes a key member of the Avengers."
+          }
+        },
+        "notable_traits": ["Prideful", "Warrior spirit", "Honor-bound"],
+        "key_moments": {
+          "comics": [
+            "Ragnarok (2004): A storyline involving the end of the world in Asgard and Thor's role in it.",
+            "The Mighty Thor (2015): Jane Foster takes up the mantle of Thor as the new Goddess of Thunder."
+          ],
+          "mcu": [
+            "Thor: Ragnarok (2017): Thor teams up with the Hulk and his sister Hela in a cosmic adventure that redefines his character.",
+            "Avengers: Infinity War (2018): Thor forges a new weapon, Stormbreaker, to fight Thanos."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "Thor (2011)",
+            "The Avengers (2012)",
+            "Thor: The Dark World (2013)",
+            "Avengers: Age of Ultron (2015)",
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Thor: Love and Thunder (2022)"
+          ],
+          "comics": [
+            "Journey into Mystery #83",
+            "Thor Vol. 1 #1",
+            "Thor: Ragnarok (2004)",
+            "The Mighty Thor (2015)"
+          ],
+          "animated_series": [
+            "The Marvel Super Heroes (1966)",
+            "Avengers: Earth's Mightiest Heroes (2010-2013)",
+            "Avengers Assemble (2013-2019)",
+            "What If...? (2021)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "LEGO Marvel Super Heroes (2013)",
+            "Thor: God of Thunder (2011)"
+          ]
+        },
+        "allies": [
+          "Iron Man",
+          "Captain America",
+          "Hulk",
+          "Loki",
+          "Guardians of the Galaxy"
+        ],
+        "enemies": [
+          "Loki",
+          "Hela",
+          "Malekith",
+          "Thanos"
+        ],
+        "romantic_interests": ["Jane Foster", "Sif"],
+        "weapons": [
+          {
+            "name": "Mjolnir",
+            "description": "A magical hammer that grants Thor control over lightning and allows him to fly."
+          },
+          {
+            "name": "Stormbreaker",
+            "description": "A powerful axe forged to defeat Thanos."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Black Widow",
+        "real_name": "Natasha Romanoff",
+        "aliases": ["Nat", "Romanoff"],
+        "team_affiliation": ["Avengers", "S.H.I.E.L.D.", "Black Widow"],
+        "powers": {
+          "combat_skills": ["Expert hand-to-hand combatant", "Master of espionage"],
+          "stealth": ["Expert in infiltration and disguise"],
+          "technology": ["Proficient with advanced technology and weaponry"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Tales of Suspense #52 (1964)",
+            "background": "Natasha Romanoff, a trained Soviet spy, defects to the West and becomes a prominent member of S.H.I.E.L.D. and the Avengers. She is skilled in combat, espionage, and is a master of disguise."
+          },
+          "mcu": {
+            "first_appearance": "Iron Man 2 (2010)",
+            "background": "Natasha Romanoff is introduced as a S.H.I.E.L.D. agent working undercover at Stark Industries. Her journey from a spy to a trusted Avenger is central to her character."
+          }
+        },
+        "notable_traits": ["Resourceful", "Independent", "Skilled tactician"],
+        "key_moments": {
+          "comics": [
+            "The Winter Soldier (2005): Natasha's past as a Soviet operative is explored, and her relationship with the Winter Soldier is revealed.",
+            "Black Widow: The Name of the Rose (2009): Natasha takes on a personal mission involving a series of high-profile assassinations."
+          ],
+          "mcu": [
+            "Avengers: Endgame (2019): Natasha sacrifices herself to obtain the Soul Stone, highlighting her selflessness and bravery."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "Iron Man 2 (2010)",
+            "The Avengers (2012)",
+            "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Black Widow (2021)"
+          ],
+          "comics": [
+            "Tales of Suspense #52",
+            "Black Widow Vol. 1 #1",
+            "Black Widow: The Name of the Rose (2009)"
+          ],
+          "animated_series": [
+            "Avengers: Earth's Mightiest Heroes (2010-2013)",
+            "Avengers Assemble (2013-2019)",
+            "Marvel's What If...? (2021)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "LEGO Marvel Super Heroes (2013)",
+            "Marvel: Future Fight (2015)"
+          ]
+        },
+        "allies": [
+          "Iron Man",
+          "Captain America",
+          "Hawkeye",
+          "Winter Soldier",
+          "Yelena Belova"
+        ],
+        "enemies": [
+          "Red Room",
+          "Taskmaster",
+          "Russians",
+          "General Dreykov"
+        ],
+        "romantic_interests": ["Hawkeye", "Winter Soldier"],
+        "weapons": [
+          {
+            "name": "Widow's Bite",
+            "description": "Electrified wristbands used for close combat."
+          },
+          {
+            "name": "Batons",
+            "description": "Retractable weapons used in hand-to-hand combat."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Hulk",
+        "real_name": "Bruce Banner",
+        "aliases": ["The Incredible Hulk", "Jade Giant"],
+        "team_affiliation": ["Avengers", "S.H.I.E.L.D.", "The Defenders"],
+        "powers": {
+          "super_strength": ["Incredible strength proportional to anger"],
+          "regeneration": ["Rapid healing"],
+          "durability": ["Enhanced durability and resistance to injury"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "The Incredible Hulk #1 (1962)",
+            "background": "Bruce Banner, a scientist exposed to gamma radiation, transforms into the Hulk when he experiences intense anger. The Hulk possesses immense strength and resilience but struggles with his dual identity."
+          },
+          "mcu": {
+            "first_appearance": "The Incredible Hulk (2008)",
+            "background": "Bruce Banner's origin story is explored, highlighting his transformation into the Hulk and his struggle to control his rage. He becomes an important member of the Avengers and works to find a cure for his condition."
+          }
+        },
+        "notable_traits": ["Rage-induced strength", "Conflict with dual identity", "Brilliant scientist"],
+        "key_moments": {
+          "comics": [
+            "Planet Hulk (2006): The Hulk is exiled to space and becomes a gladiator on the planet Sakaar.",
+            "World War Hulk (2007): The Hulk returns to Earth to seek revenge on those who wronged him."
+          ],
+          "mcu": [
+            "Avengers: Age of Ultron (2015): Hulk's struggle with his rage becomes central to the storyline, and his relationship with Black Widow is explored.",
+            "Avengers: Endgame (2019): Bruce Banner integrates the Hulk's strength with his own intellect to become 'Smart Hulk'."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "The Incredible Hulk (2008)",
+            "The Avengers (2012)",
+            "Iron Man 3 (2013)",
+            "Avengers: Age of Ultron (2015)",
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+          ],
+          "comics": [
+            "The Incredible Hulk #1",
+            "Hulk: Planet Hulk (2006)",
+            "World War Hulk (2007)"
+          ],
+          "animated_series": [
+            "The Incredible Hulk (1982-1984)",
+            "Hulk and the Agents of S.M.A.S.H. (2013-2015)",
+            "Avengers Assemble (2013-2019)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "The Incredible Hulk (2008)",
+            "LEGO Marvel Super Heroes (2013)"
+          ]
+        },
+        "allies": [
+          "Iron Man",
+          "Thor",
+          "Black Widow",
+          "Captain America",
+          "She-Hulk"
+        ],
+        "enemies": [
+          "Abomination",
+          "The Leader",
+          "General Ross",
+          "Thanos"
+        ],
+        "romantic_interests": ["Betty Ross", "Black Widow"],
+        "weapons": [
+          {
+            "name": "Gamma Radiation",
+            "description": "The source of Hulk's powers, which grants him superhuman strength and resilience."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Hawkeye",
+        "real_name": "Clint Barton",
+        "aliases": ["Clint", "Ronan"],
+        "team_affiliation": ["Avengers", "S.H.I.E.L.D.", "West Coast Avengers"],
+        "powers": {
+          "archery": ["Expert archer", "Master of trick arrows"],
+          "combat_skills": ["Highly skilled hand-to-hand combatant"],
+          "stealth": ["Expert in stealth and infiltration"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Tales of Suspense #57 (1964)",
+            "background": "Clint Barton, an exceptional archer and former circus performer, becomes a superhero after joining the Avengers. His skills with a bow and arrow and his past as an outlaw shape his character."
+          },
+          "mcu": {
+            "first_appearance": "Thor (2011)",
+            "background": "Clint Barton is introduced as a S.H.I.E.L.D. agent and later joins the Avengers. His character is developed through his family life and his role as a skilled marksman."
+          }
+        },
+        "notable_traits": ["Exceptional aim", "Dedication to family", "Occasional rogue tendencies"],
+        "key_moments": {
+          "comics": [
+            "Hawkeye: My Life as a Weapon (2012): Explores Clint Barton's personal life and his adventures outside the Avengers.",
+            "The Ultimates (2002): Introduces Clint Barton as a member of the Ultimates with a darker backstory."
+          ],
+          "mcu": [
+            "Avengers: Age of Ultron (2015): Clint's role as a family man is explored, including his secret family and the impact of his superhero life on them.",
+            "Hawkeye (2021): The Disney+ series focuses on Clint's attempts to retire and train a new generation of heroes."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "Thor (2011)",
+            "The Avengers (2012)",
+            "Iron Man 3 (2013)",
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Hawkeye (2021)"
+          ],
+          "comics": [
+            "Tales of Suspense #57",
+            "Hawkeye Vol. 1 #1",
+            "Hawkeye: My Life as a Weapon (2012)"
+          ],
+          "animated_series": [
+            "The Avengers: Earth's Mightiest Heroes (2010-2013)",
+            "Avengers Assemble (2013-2019)",
+            "What If...? (2021)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "LEGO Marvel Super Heroes (2013)",
+            "Hawkeye: Retribution (2013)"
+          ]
+        },
+        "allies": [
+          "Black Widow",
+          "Iron Man",
+          "Captain America",
+          "Kate Bishop",
+          "Mockingbird"
+        ],
+        "enemies": [
+          "Loki",
+          "Ultron",
+          "Baron Zemo",
+          "Trickshot"
+        ],
+        "romantic_interests": ["Natasha Romanoff", "Bobbi Morse"],
+        "weapons": [
+          {
+            "name": "Bow and Arrows",
+            "description": "Clint's primary weapon, equipped with various specialized arrows."
+          }
+        ]
+      }
+    ],
+    "villains": [
+      {
+        "id": "1",
+        "name": "Loki",
+        "real_name": "Loki Laufeyson",
+        "aliases": ["God of Mischief", "Loki Odinson"],
+        "team_affiliation": ["Asgardians", "The Avengers' enemies", "The Avengers"],
+        "powers": {
+          "godly_abilities": ["Superhuman strength", "Longevity", "Illusion casting"],
+          "magic": ["Expert in sorcery", "Teleportation"],
+          "shape_shifting": ["Ability to change appearance at will"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Journey into Mystery #85 (1962)",
+            "background": "Loki, the adopted brother of Thor, is a complex character with a penchant for mischief and a desire for power. His powers include sorcery and illusion-casting."
+          },
+          "mcu": {
+            "first_appearance": "Thor (2011)",
+            "background": "Loki's character is developed as the adopted brother of Thor who seeks to usurp the throne of Asgard. His motivations and actions make him one of the most complex and recurring villains in the MCU."
+          }
+        },
+        "notable_traits": ["Manipulative", "Charismatic", "Deceptive"],
+        "key_moments": {
+          "comics": [
+            "The Avengers #1 (1963): Loki first appears as a primary antagonist against the Avengers.",
+            "Journey into Mystery #627 (2011): Loki's character is redefined in the wake of his past actions and his relationship with Thor."
+          ],
+          "mcu": [
+            "The Avengers (2012): Loki leads an alien invasion of Earth and battles the Avengers.",
+            "Thor: Ragnarok (2017): Loki's character is explored in depth, showing his role in Asgard's destruction and his partnership with Thor."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "Thor (2011)",
+            "The Avengers (2012)",
+            "Thor: The Dark World (2013)",
+            "Avengers: Age of Ultron (2015)",
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Loki (2021)"
+          ],
+          "comics": [
+            "Journey into Mystery #85",
+            "The Avengers #1",
+            "Loki: Agent of Asgard (2014)"
+          ],
+          "animated_series": [
+            "The Avengers: Earth's Mightiest Heroes (2010-2013)",
+            "Avengers Assemble (2013-2019)",
+            "What If...? (2021)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "LEGO Marvel Super Heroes (2013)",
+            "Loki: Mischief and Mayhem (2013)"
+          ]
+        },
+        "allies": [
+          "Thanos",
+          "Hela",
+          "Enchantress",
+          "The Frost Giants"
+        ],
+        "enemies": [
+          "Thor",
+          "Iron Man",
+          "Captain America",
+          "The Avengers"
+        ],
+        "romantic_interests": ["None"],
+        "weapons": [
+          {
+            "name": "Sceptre",
+            "description": "A magical staff that Loki uses to manipulate minds and project energy."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Thanos",
+        "real_name": "Thanos",
+        "aliases": ["The Mad Titan", "The Destroyer"],
+        "team_affiliation": ["Black Order", "Chitauri"],
+        "powers": {
+          "cosmic_strength": ["Superhuman strength", "Durability"],
+          "immortality": ["Longevity", "Regenerative abilities"],
+          "intellect": ["Genius-level intellect", "Master tactician"],
+          "Infinity Stones": ["Ability to manipulate reality, space, time, power, mind, and soul"]
+        },
+        "origin_story": {
+          "comics": {
+            "first_appearance": "Iron Man #55 (1973)",
+            "background": "Thanos, a powerful cosmic entity, seeks to bring balance to the universe by acquiring the Infinity Stones and using them to enact his will. His motivations are driven by a twisted sense of order and control."
+          },
+          "mcu": {
+            "first_appearance": "The Avengers (2012)",
+            "background": "Thanos is introduced as the puppet master behind Loki's invasion of Earth. His quest for the Infinity Stones drives the plot of the MCU's Phase Three, culminating in his acquisition of all six stones and the decimation of half the universe's population."
+          }
+        },
+        "notable_traits": ["Obsessed with balance", "Ruthless", "Strategic mastermind"],
+        "key_moments": {
+          "comics": [
+            "Infinity Gauntlet (1991): Thanos acquires all six Infinity Gems and poses a cosmic threat to the universe.",
+            "Infinity War (1992): The aftermath of Thanos's actions in Infinity Gauntlet."
+          ],
+          "mcu": [
+            "Avengers: Infinity War (2018): Thanos gathers all the Infinity Stones and executes the Snap, wiping out half of all life in the universe.",
+            "Avengers: Endgame (2019): The Avengers travel through time to retrieve the Infinity Stones and ultimately defeat Thanos."
+          ]
+        },
+        "appearances": {
+          "movies": [
+            "The Avengers (2012)",
+            "Guardians of the Galaxy (2014)",
+            "Avengers: Age of Ultron (2015)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+          ],
+          "comics": [
+            "Iron Man #55",
+            "Infinity Gauntlet (1991)",
+            "Infinity War (1992)"
+          ],
+          "animated_series": [
+            "Avengers Assemble (2013-2019)",
+            "Guardians of the Galaxy (2015-2019)",
+            "What If...? (2021)"
+          ],
+          "games": [
+            "Marvel's Avengers (2020)",
+            "LEGO Marvel Super Heroes (2013)",
+            "Marvel Ultimate Alliance 3: The Black Order (2019)"
+          ]
+        },
+        "allies": [
+          "The Black Order",
+          "The Chitauri",
+          "Gamora",
+          "Nebula"
+        ],
+        "enemies": [
+          "The Avengers",
+          "The Guardians of the Galaxy",
+          "Thor",
+          "Iron Man"
+        ],
+        "romantic_interests": ["None"],
+        "weapons": [
+          {
+            "name": "Infinity Gauntlet",
+            "description": "A glove that harnesses the power of the six Infinity Stones, allowing Thanos to control reality itself."
+          }
+        ]
+      }
+    ]
+  }
+  
+

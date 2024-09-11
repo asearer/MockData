@@ -1,0 +1,105 @@
+{
+    "employees": [
+      {
+        "employee_id": 1001,
+        "name": "John Doe",
+        "department": "Engineering",
+        "role": "Software Engineer",
+        "hire_date": "2021-06-15",
+        "salary": 90000,
+        "performance_score": 85,
+        "location": "San Francisco"
+      },
+      {
+        "employee_id": 1002,
+        "name": "Alice Johnson",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "hire_date": "2019-03-22",
+        "salary": 75000,
+        "performance_score": 90,
+        "location": "New York"
+      },
+      {
+        "employee_id": 1003,
+        "name": "Robert Brown",
+        "department": "Sales",
+        "role": "Sales Executive",
+        "hire_date": "2017-10-30",
+        "salary": 68000,
+        "performance_score": 78,
+        "location": "Chicago"
+      },
+      {
+        "employee_id": 1004,
+        "name": "Emily Davis",
+        "department": "Human Resources",
+        "role": "HR Manager",
+        "hire_date": "2020-02-12",
+        "salary": 72000,
+        "performance_score": 88,
+        "location": "Seattle"
+      },
+      {
+        "employee_id": 1005,
+        "name": "Michael Wilson",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "hire_date": "2018-08-14",
+        "salary": 85000,
+        "performance_score": 82,
+        "location": "Austin"
+      },
+      {
+        "employee_id": 1006,
+        "name": "Laura Thompson",
+        "department": "IT",
+        "role": "IT Specialist",
+        "hire_date": "2016-11-03",
+        "salary": 80000,
+        "performance_score": 87,
+        "location": "New York"
+      },
+      {
+        "employee_id": 1007,
+        "name": "David Lee",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "hire_date": "2015-07-21",
+        "salary": 78000,
+        "performance_score": 75,
+        "location": "Los Angeles"
+      },
+      {
+        "employee_id": 1008,
+        "name": "Sophia Martinez",
+        "department": "Customer Service",
+        "role": "Customer Support Specialist",
+        "hire_date": "2021-04-18",
+        "salary": 45000,
+        "performance_score": 91,
+        "location": "Boston"
+      },
+      {
+        "employee_id": 1009,
+        "name": "James Garcia",
+        "department": "Product",
+        "role": "Product Manager",
+        "hire_date": "2019-09-27",
+        "salary": 92000,
+        "performance_score": 89,
+        "location": "San Francisco"
+      },
+      {
+        "employee_id": 1010,
+        "name": "Olivia Rodriguez",
+        "department": "Legal",
+        "role": "Legal Advisor",
+        "hire_date": "2020-01-05",
+        "salary": 98000,
+        "performance_score": 92,
+        "location": "Washington, D.C."
+      }
+    ]
+  }
+  

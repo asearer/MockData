@@ -1,0 +1,427 @@
+{
+  "club": {
+    "id": "1",
+    "name": "Manchester City",
+    "short_name": "MCI",
+    "stadium": "Etihad Stadium",
+    "manager": "Pep Guardiola",
+    "founded": 1880,
+    "country": "England",
+    "colors": ["Sky Blue", "White"],
+    "website": "https://www.mancity.com"
+  },
+  "players": [
+    {
+      "id": "1",
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "nationality": "Belgian",
+      "goals": 12,
+      "assists": 8,
+      "appearances": 35,
+      "minutes_played": 3080,
+      "yellow_cards": 4,
+      "red_cards": 1,
+      "shots_on_target": 45,
+      "passes_completed": 1205,
+      "tackles_won": 35,
+      "dribbles_completed": 40,
+      "injuries": [
+        {
+          "type": "Hamstring",
+          "start_date": "2023-03-01",
+          "end_date": "2023-04-01"
+        }
+      ],
+      "contract_expires": "2025-06-30"
+    },
+    {
+      "id": "2",
+      "name": "Erling Haaland",
+      "position": "Forward",
+      "nationality": "Norwegian",
+      "goals": 25,
+      "assists": 5,
+      "appearances": 34,
+      "minutes_played": 2970,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "shots_on_target": 70,
+      "passes_completed": 150,
+      "tackles_won": 12,
+      "dribbles_completed": 20,
+      "injuries": [],
+      "contract_expires": "2027-06-30"
+    },
+    {
+      "id": "3",
+      "name": "Jack Grealish",
+      "position": "Winger",
+      "nationality": "English",
+      "goals": 8,
+      "assists": 12,
+      "appearances": 32,
+      "minutes_played": 2700,
+      "yellow_cards": 3,
+      "red_cards": 1,
+      "shots_on_target": 25,
+      "passes_completed": 550,
+      "tackles_won": 20,
+      "dribbles_completed": 55,
+      "injuries": [],
+      "contract_expires": "2026-06-30"
+    },
+    {
+      "id": "4",
+      "name": "Ruben Dias",
+      "position": "Defender",
+      "nationality": "Portuguese",
+      "goals": 3,
+      "assists": 2,
+      "appearances": 33,
+      "minutes_played": 2970,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "shots_on_target": 5,
+      "passes_completed": 700,
+      "tackles_won": 90,
+      "dribbles_completed": 0,
+      "injuries": [
+        {
+          "type": "Groin",
+          "start_date": "2023-11-15",
+          "end_date": "2023-12-20"
+        }
+      ],
+      "contract_expires": "2027-06-30"
+    },
+    {
+      "id": "5",
+      "name": "Ederson",
+      "position": "Goalkeeper",
+      "nationality": "Brazilian",
+      "goals": 0,
+      "assists": 1,
+      "appearances": 35,
+      "minutes_played": 3150,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "shots_on_target_faced": 100,
+      "saves_made": 85,
+      "clean_sheets": 18,
+      "injuries": [],
+      "contract_expires": "2026-06-30"
+    },
+    {
+      "id": "6",
+      "name": "Bernardo Silva",
+      "position": "Midfielder",
+      "nationality": "Portuguese",
+      "goals": 9,
+      "assists": 7,
+      "appearances": 31,
+      "minutes_played": 2740,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "shots_on_target": 20,
+      "passes_completed": 520,
+      "tackles_won": 30,
+      "dribbles_completed": 35,
+      "injuries": [],
+      "contract_expires": "2025-06-30"
+    },
+    {
+      "id": "7",
+      "name": "Phil Foden",
+      "position": "Winger",
+      "nationality": "English",
+      "goals": 10,
+      "assists": 6,
+      "appearances": 30,
+      "minutes_played": 2600,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "shots_on_target": 30,
+      "passes_completed": 400,
+      "tackles_won": 25,
+      "dribbles_completed": 60,
+      "injuries": [
+        {
+          "type": "Ankle",
+          "start_date": "2023-02-10",
+          "end_date": "2023-03-10"
+        }
+      ],
+      "contract_expires": "2027-06-30"
+    },
+    {
+      "id": "8",
+      "name": "João Cancelo",
+      "position": "Defender",
+      "nationality": "Portuguese",
+      "goals": 4,
+      "assists": 7,
+      "appearances": 28,
+      "minutes_played": 2420,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "shots_on_target": 10,
+      "passes_completed": 600,
+      "tackles_won": 50,
+      "dribbles_completed": 25,
+      "injuries": [],
+      "contract_expires": "2026-06-30"
+    },
+    {
+      "id": "9",
+      "name": "Ilkay Gündogan",
+      "position": "Midfielder",
+      "nationality": "German",
+      "goals": 6,
+      "assists": 5,
+      "appearances": 30,
+      "minutes_played": 2550,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "shots_on_target": 15,
+      "passes_completed": 480,
+      "tackles_won": 22,
+      "dribbles_completed": 25,
+      "injuries": [],
+      "contract_expires": "2024-06-30"
+    },
+    {
+      "id": "10",
+      "name": "Nathan Aké",
+      "position": "Defender",
+      "nationality": "Dutch",
+      "goals": 2,
+      "assists": 1,
+      "appearances": 27,
+      "minutes_played": 2330,
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "shots_on_target": 4,
+      "passes_completed": 550,
+      "tackles_won": 70,
+      "dribbles_completed": 5,
+      "injuries": [],
+      "contract_expires": "2025-06-30"
+    },
+    {
+      "id": "11",
+      "name": "Manuel Akanji",
+      "position": "Defender",
+      "nationality": "Swiss",
+      "goals": 1,
+      "assists": 1,
+      "appearances": 25,
+      "minutes_played": 2150,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "shots_on_target": 3,
+      "passes_completed": 450,
+      "tackles_won": 45,
+      "dribbles_completed": 2,
+      "injuries": [],
+      "contract_expires": "2026-06-30"
+    },
+    {
+      "id": "12",
+      "name": "Kyle Walker",
+      "position": "Defender",
+      "nationality": "English",
+      "goals": 1,
+      "assists": 3,
+      "appearances": 29,
+      "minutes_played": 2580,
+      "yellow_cards": 6,
+      "red_cards": 0,
+      "shots_on_target": 7,
+      "passes_completed": 600,
+      "tackles_won": 55,
+      "dribbles_completed": 15,
+      "injuries": [
+        {
+          "type": "Knee",
+          "start_date": "2023-10-20",
+          "end_date": "2023-11-15"
+        }
+      ],
+      "contract_expires": "2025-06-30"
+    },
+    {
+      "id": "13",
+      "name": "Sergio Gómez",
+      "position": "Defender",
+      "nationality": "Spanish",
+      "goals": 2,
+      "assists": 4,
+      "appearances": 22,
+      "minutes_played": 1920,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "shots_on_target": 5,
+      "passes_completed": 400,
+      "tackles_won": 20,
+      "dribbles_completed": 10,
+      "injuries": [],
+      "contract_expires": "2027-06-30"
+    },
+    {
+      "id": "14",
+      "name": "Josh Wilson-Esbrand",
+      "position": "Defender",
+      "nationality": "English",
+      "goals": 0,
+      "assists": 1,
+      "appearances": 10,
+      "minutes_played": 900,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "shots_on_target": 0,
+      "passes_completed": 100,
+      "tackles_won": 10,
+      "dribbles_completed": 2,
+      "injuries": [],
+      "contract_expires": "2025-06-30"
+    },
+    {
+      "id": "15",
+      "name": "James Trafford",
+      "position": "Goalkeeper",
+      "nationality": "English",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 3,
+      "minutes_played": 270,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "shots_on_target_faced": 5,
+      "saves_made": 3,
+      "clean_sheets": 1,
+      "injuries": [],
+      "contract_expires": "2026-06-30"
+    },
+    {
+      "id": "16",
+      "name": "Riyad Mahrez",
+      "position": "Winger",
+      "nationality": "Algerian",
+      "goals": 7,
+      "assists": 8,
+      "appearances": 29,
+      "minutes_played": 2450,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "shots_on_target": 18,
+      "passes_completed": 380,
+      "tackles_won": 10,
+      "dribbles_completed": 30,
+      "injuries": [],
+      "contract_expires": "2025-06-30"
+    },
+    {
+      "id": "17",
+      "name": "Ángelino",
+      "position": "Defender",
+      "nationality": "Spanish",
+      "goals": 1,
+      "assists": 2,
+      "appearances": 15,
+      "minutes_played": 1350,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "shots_on_target": 4,
+      "passes_completed": 250,
+      "tackles_won": 20,
+      "dribbles_completed": 8,
+      "injuries": [],
+      "contract_expires": "2026-06-30"
+    }
+
+  ],
+  "seasonal_stats": {
+    "total_wins": 28,
+    "total_draws": 5,
+    "total_losses": 5,
+    "goals_for": 85,
+    "goals_against": 30,
+    "goal_difference": 55,
+    "points": 89,
+    "penalty_goals_scored": 6,
+    "penalty_goals_conceded": 3,
+    "total_extra_time": 50,
+    "matches_with_extra_time": 10,
+    "average_extra_time_per_match": 5,
+    "extra_time_breakdown": [
+      {
+        "match_id": "1",
+        "reason": "Penalty",
+        "extra_time": 6
+      },
+      {
+        "match_id": "2",
+        "reason": "Injury",
+        "extra_time": 4
+      },
+      {
+        "match_id": "3",
+        "reason": "Substitution",
+        "extra_time": 5
+      },
+      {
+        "match_id": "4",
+        "reason": "Penalty",
+        "extra_time": 5
+      },
+      {
+        "match_id": "5",
+        "reason": "Injury",
+        "extra_time": 4
+      },
+      {
+        "match_id": "6",
+        "reason": "Substitution",
+        "extra_time": 6
+      },
+      {
+        "match_id": "7",
+        "reason": "Penalty",
+        "extra_time": 5
+      },
+      {
+        "match_id": "8",
+        "reason": "Injury",
+        "extra_time": 7
+      },
+      {
+        "match_id": "9",
+        "reason": "Substitution",
+        "extra_time": 6
+      },
+      {
+        "match_id": "10",
+        "reason": "Penalty",
+        "extra_time": 6
+      }
+    ]
+  },
+  "final_stats": {
+    "position": 1,
+    "wins": 28,
+    "draws": 5,
+    "losses": 5,
+    "goals_for": 85,
+    "goals_against": 30,
+    "goal_difference": 55,
+    "points": 89,
+    "penalty_goals_scored": 6,
+    "penalty_goals_conceded": 3,
+    "total_extra_time": 50,
+    "matches_with_extra_time": 10,
+    "average_extra_time_per_match": 5
+  }
+}
+
+  

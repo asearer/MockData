@@ -1,0 +1,125 @@
+{
+    "patients": [
+      {
+        "patient_id": 10001,
+        "name": "John Doe",
+        "age": 42,
+        "gender": "Male",
+        "location": "New York",
+        "diagnoses": ["Generalized Anxiety Disorder", "Major Depressive Disorder"],
+        "last_session": "2023-09-02",
+        "therapist_assigned": "Dr. Emily Clark",
+        "medications": ["Sertraline", "Alprazolam"],
+        "therapy_plan": "CBT - Weekly"
+      },
+      {
+        "patient_id": 10002,
+        "name": "Jane Smith",
+        "age": 29,
+        "gender": "Female",
+        "location": "California",
+        "diagnoses": ["Bipolar Disorder Type II"],
+        "last_session": "2023-08-28",
+        "therapist_assigned": "Dr. Robert Lee",
+        "medications": ["Lamotrigine"],
+        "therapy_plan": "DBT - Biweekly"
+      },
+      {
+        "patient_id": 10003,
+        "name": "David Brown",
+        "age": 35,
+        "gender": "Male",
+        "location": "Texas",
+        "diagnoses": ["Panic Disorder", "Agoraphobia"],
+        "last_session": "2023-08-20",
+        "therapist_assigned": "Dr. Sarah Green",
+        "medications": ["Fluoxetine"],
+        "therapy_plan": "Exposure Therapy - Monthly"
+      },
+      {
+        "patient_id": 10004,
+        "name": "Linda Williams",
+        "age": 50,
+        "gender": "Female",
+        "location": "Florida",
+        "diagnoses": ["Obsessive-Compulsive Disorder"],
+        "last_session": "2023-07-30",
+        "therapist_assigned": "Dr. Emily Clark",
+        "medications": ["Clomipramine"],
+        "therapy_plan": "CBT - Weekly"
+      },
+      {
+        "patient_id": 10005,
+        "name": "Michael Davis",
+        "age": 27,
+        "gender": "Male",
+        "location": "Illinois",
+        "diagnoses": ["Post-Traumatic Stress Disorder"],
+        "last_session": "2023-09-10",
+        "therapist_assigned": "Dr. Robert Lee",
+        "medications": ["Paroxetine"],
+        "therapy_plan": "Trauma-Focused Therapy - Weekly"
+      },
+      {
+        "patient_id": 10006,
+        "name": "Sarah Miller",
+        "age": 33,
+        "gender": "Female",
+        "location": "Washington",
+        "diagnoses": ["Social Anxiety Disorder"],
+        "last_session": "2023-08-15",
+        "therapist_assigned": "Dr. Emily Clark",
+        "medications": ["Escitalopram"],
+        "therapy_plan": "CBT - Biweekly"
+      },
+      {
+        "patient_id": 10007,
+        "name": "James Taylor",
+        "age": 49,
+        "gender": "Male",
+        "location": "Ohio",
+        "diagnoses": ["Major Depressive Disorder"],
+        "last_session": "2023-07-25",
+        "therapist_assigned": "Dr. Michael Jones",
+        "medications": ["Sertraline"],
+        "therapy_plan": "Interpersonal Therapy - Weekly"
+      },
+      {
+        "patient_id": 10008,
+        "name": "Patricia Wilson",
+        "age": 40,
+        "gender": "Female",
+        "location": "Arizona",
+        "diagnoses": ["Schizophrenia"],
+        "last_session": "2023-09-05",
+        "therapist_assigned": "Dr. Robert Lee",
+        "medications": ["Risperidone"],
+        "therapy_plan": "Psychosocial Therapy - Weekly"
+      },
+      {
+        "patient_id": 10009,
+        "name": "Robert Anderson",
+        "age": 55,
+        "gender": "Male",
+        "location": "Michigan",
+        "diagnoses": ["Panic Disorder"],
+        "last_session": "2023-08-20",
+        "therapist_assigned": "Dr. Sarah Green",
+        "medications": ["Clonazepam"],
+        "therapy_plan": "Exposure Therapy - Biweekly"
+      },
+      {
+        "patient_id": 10010,
+        "name": "Mary Thomas",
+        "age": 38,
+        "gender": "Female",
+        "location": "Georgia",
+        "diagnoses": ["Generalized Anxiety Disorder"],
+        "last_session": "2023-09-02",
+        "therapist_assigned": "Dr. Michael Jones",
+        "medications": ["Venlafaxine"],
+        "therapy_plan": "CBT - Weekly"
+      }
+    ]
+  }
+  

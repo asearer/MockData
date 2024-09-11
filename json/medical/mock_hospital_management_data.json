@@ -1,0 +1,65 @@
+{
+    "hospital_management": [
+      {
+        "hospital_id": 101,
+        "hospital_name": "City Medical Center",
+        "location": "New York",
+        "departments": [
+          { "department_name": "Cardiology", "staff_count": 25, "beds_available": 12 },
+          { "department_name": "Neurology", "staff_count": 15, "beds_available": 8 },
+          { "department_name": "Pediatrics", "staff_count": 20, "beds_available": 10 }
+        ],
+        "icu_beds_available": 5,
+        "total_capacity": 100
+      },
+      {
+        "hospital_id": 102,
+        "hospital_name": "Sunrise Hospital",
+        "location": "California",
+        "departments": [
+          { "department_name": "Orthopedics", "staff_count": 18, "beds_available": 9 },
+          { "department_name": "Dermatology", "staff_count": 10, "beds_available": 5 },
+          { "department_name": "Gastroenterology", "staff_count": 22, "beds_available": 12 }
+        ],
+        "icu_beds_available": 4,
+        "total_capacity": 90
+      },
+      {
+        "hospital_id": 103,
+        "hospital_name": "Green Valley Medical",
+        "location": "Texas",
+        "departments": [
+          { "department_name": "Oncology", "staff_count": 30, "beds_available": 20 },
+          { "department_name": "Radiology", "staff_count": 12, "beds_available": 7 },
+          { "department_name": "Urology", "staff_count": 15, "beds_available": 6 }
+        ],
+        "icu_beds_available": 6,
+        "total_capacity": 120
+      },
+      {
+        "hospital_id": 104,
+        "hospital_name": "Westside Health Center",
+        "location": "Florida",
+        "departments": [
+          { "department_name": "Emergency", "staff_count": 40, "beds_available": 18 },
+          { "department_name": "Ophthalmology", "staff_count": 10, "beds_available": 4 },
+          { "department_name": "ENT", "staff_count": 8, "beds_available": 5 }
+        ],
+        "icu_beds_available": 7,
+        "total_capacity": 110
+      },
+      {
+        "hospital_id": 105,
+        "hospital_name": "Silver Springs Hospital",
+        "location": "Illinois",
+        "departments": [
+          { "department_name": "Geriatrics", "staff_count": 20, "beds_available": 10 },
+          { "department_name": "Obstetrics", "staff_count": 25, "beds_available": 12 },
+          { "department_name": "Psychiatry", "staff_count": 30, "beds_available": 15 }
+        ],
+        "icu_beds_available": 6,
+        "total_capacity": 130
+      }
+    ]
+  }
+  

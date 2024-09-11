@@ -1,0 +1,242 @@
+{
+    "conversations": [
+        {
+            "conversation_id": "1",
+            "participants": [
+                {
+                    "user_id": "user_1",
+                    "name": "Alice",
+                    "phone_number": "+1234567890",
+                    "email": "alice@example.com"
+                },
+                {
+                    "user_id": "user_2",
+                    "name": "Bob",
+                    "phone_number": "+0987654321",
+                    "email": "bob@example.com"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "msg_1",
+                    "sender_id": "user_1",
+                    "recipient_id": "user_2",
+                    "timestamp": "2024-09-01T10:00:00Z",
+                    "message_type": "text",
+                    "content": "Hi Bob, how are you?",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                },
+                {
+                    "message_id": "msg_2",
+                    "sender_id": "user_2",
+                    "recipient_id": "user_1",
+                    "timestamp": "2024-09-01T10:01:00Z",
+                    "message_type": "text",
+                    "content": "Hey Alice, I'm good. How about you?",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                },
+                {
+                    "message_id": "msg_3",
+                    "sender_id": "user_1",
+                    "recipient_id": "user_2",
+                    "timestamp": "2024-09-01T10:02:00Z",
+                    "message_type": "text",
+                    "content": "I'm doing well, thanks for asking!",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                }
+            ]
+        },
+        {
+            "conversation_id": "2",
+            "participants": [
+                {
+                    "user_id": "user_3",
+                    "name": "Charlie",
+                    "phone_number": "+1122334455",
+                    "email": "charlie@example.com"
+                },
+                {
+                    "user_id": "user_4",
+                    "name": "Dana",
+                    "phone_number": "+5544332211",
+                    "email": "dana@example.com"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "msg_4",
+                    "sender_id": "user_3",
+                    "recipient_id": "user_4",
+                    "timestamp": "2024-09-02T14:00:00Z",
+                    "message_type": "text",
+                    "content": "Hi Dana, did you receive the report?",
+                    "metadata": {
+                        "read_status": "unread",
+                        "delivered_status": "delivered",
+                        "priority": "high"
+                    }
+                },
+                {
+                    "message_id": "msg_5",
+                    "sender_id": "user_4",
+                    "recipient_id": "user_3",
+                    "timestamp": "2024-09-02T14:05:00Z",
+                    "message_type": "text",
+                    "content": "Yes, I got it. Thanks for sending.",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                }
+            ]
+        },
+        {
+            "conversation_id": "3",
+            "participants": [
+                {
+                    "user_id": "user_5",
+                    "name": "Eve",
+                    "phone_number": "+6677889900",
+                    "email": "eve@example.com"
+                },
+                {
+                    "user_id": "user_6",
+                    "name": "Frank",
+                    "phone_number": "+9988776655",
+                    "email": "frank@example.com"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "msg_6",
+                    "sender_id": "user_5",
+                    "recipient_id": "user_6",
+                    "timestamp": "2024-09-03T09:00:00Z",
+                    "message_type": "image",
+                    "content": "https://example.com/image1.jpg",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                },
+                {
+                    "message_id": "msg_7",
+                    "sender_id": "user_6",
+                    "recipient_id": "user_5",
+                    "timestamp": "2024-09-03T09:05:00Z",
+                    "message_type": "text",
+                    "content": "Nice photo! Where was it taken?",
+                    "metadata": {
+                        "read_status": "unread",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                }
+            ]
+        },
+        {
+            "conversation_id": "4",
+            "participants": [
+                {
+                    "user_id": "user_7",
+                    "name": "Grace",
+                    "phone_number": "+2233445566",
+                    "email": "grace@example.com"
+                },
+                {
+                    "user_id": "user_8",
+                    "name": "Hank",
+                    "phone_number": "+3344556677",
+                    "email": "hank@example.com"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "msg_8",
+                    "sender_id": "user_7",
+                    "recipient_id": "user_8",
+                    "timestamp": "2024-09-04T11:00:00Z",
+                    "message_type": "text",
+                    "content": "Meeting is scheduled for tomorrow at 3 PM.",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                },
+                {
+                    "message_id": "msg_9",
+                    "sender_id": "user_8",
+                    "recipient_id": "user_7",
+                    "timestamp": "2024-09-04T11:15:00Z",
+                    "message_type": "text",
+                    "content": "Got it. See you then!",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                }
+            ]
+        },
+        {
+            "conversation_id": "5",
+            "participants": [
+                {
+                    "user_id": "user_9",
+                    "name": "Ivy",
+                    "phone_number": "+4455667788",
+                    "email": "ivy@example.com"
+                },
+                {
+                    "user_id": "user_10",
+                    "name": "Jack",
+                    "phone_number": "+5566778899",
+                    "email": "jack@example.com"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "msg_10",
+                    "sender_id": "user_9",
+                    "recipient_id": "user_10",
+                    "timestamp": "2024-09-05T16:00:00Z",
+                    "message_type": "text",
+                    "content": "Can you send me the document again?",
+                    "metadata": {
+                        "read_status": "read",
+                        "delivered_status": "delivered",
+                        "priority": "high"
+                    }
+                },
+                {
+                    "message_id": "msg_11",
+                    "sender_id": "user_10",
+                    "recipient_id": "user_9",
+                    "timestamp": "2024-09-05T16:10:00Z",
+                    "message_type": "file",
+                    "content": "https://example.com/document.pdf",
+                    "metadata": {
+                        "read_status": "unread",
+                        "delivered_status": "delivered",
+                        "priority": "normal"
+                    }
+                }
+            ]
+        }
+    ]
+}

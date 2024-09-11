@@ -1,0 +1,50 @@
+{
+    "medical_inventory": [
+      {
+        "equipment_id": 4001,
+        "equipment_name": "MRI Scanner",
+        "quantity_in_stock": 5,
+        "supplier": "MedEquip Corp",
+        "last_ordered": "2023-06-15",
+        "order_quantity": 1,
+        "next_delivery_date": "2023-09-01"
+      },
+      {
+        "equipment_id": 4002,
+        "equipment_name": "X-Ray Machine",
+        "quantity_in_stock": 8,
+        "supplier": "Radiology Tech Supplies",
+        "last_ordered": "2023-07-10",
+        "order_quantity": 2,
+        "next_delivery_date": "2023-09-15"
+      },
+      {
+        "equipment_id": 4003,
+        "equipment_name": "Ultrasound Machine",
+        "quantity_in_stock": 4,
+        "supplier": "MedEquip Corp",
+        "last_ordered": "2023-08-05",
+        "order_quantity": 1,
+        "next_delivery_date": "2023-10-01"
+      },
+      {
+        "equipment_id": 4004,
+        "equipment_name": "Defibrillator",
+        "quantity_in_stock": 15,
+        "supplier": "CardioTech Supplies",
+        "last_ordered": "2023-05-20",
+        "order_quantity": 5,
+        "next_delivery_date": "2023-09-10"
+      },
+      {
+        "equipment_id": 4005,
+        "equipment_name": "Ventilator",
+        "quantity_in_stock": 20,
+        "supplier": "LifeSupport Equipment",
+        "last_ordered": "2023-04-15",
+        "order_quantity": 10,
+        "next_delivery_date": "2023-09-20"
+      }
+    ]
+  }
+  

@@ -1,0 +1,122 @@
+[
+    {
+        "record_id": "1",
+        "timestamp": "2024-01-01T00:00:00Z",
+        "ip_address": "192.168.1.1",
+        "connection_type": "Fiber",
+        "download_speed_mbps": 150.0,
+        "upload_speed_mbps": 50.0,
+        "latency_ms": 10,
+        "packet_loss_percent": 0.2,
+        "server_location": "New York",
+        "network_provider": "ProviderA"
+    },
+    {
+        "record_id": "2",
+        "timestamp": "2024-01-01T01:00:00Z",
+        "ip_address": "192.168.1.2",
+        "connection_type": "DSL",
+        "download_speed_mbps": 50.0,
+        "upload_speed_mbps": 10.0,
+        "latency_ms": 30,
+        "packet_loss_percent": 1.0,
+        "server_location": "Los Angeles",
+        "network_provider": "ProviderB"
+    },
+    {
+        "record_id": "3",
+        "timestamp": "2024-01-01T02:00:00Z",
+        "ip_address": "192.168.1.3",
+        "connection_type": "Cable",
+        "download_speed_mbps": 100.0,
+        "upload_speed_mbps": 25.0,
+        "latency_ms": 20,
+        "packet_loss_percent": 0.5,
+        "server_location": "Chicago",
+        "network_provider": "ProviderC"
+    },
+    {
+        "record_id": "4",
+        "timestamp": "2024-01-01T03:00:00Z",
+        "ip_address": "192.168.1.4",
+        "connection_type": "Fiber",
+        "download_speed_mbps": 200.0,
+        "upload_speed_mbps": 75.0,
+        "latency_ms": 8,
+        "packet_loss_percent": 0.1,
+        "server_location": "San Francisco",
+        "network_provider": "ProviderA"
+    },
+    {
+        "record_id": "5",
+        "timestamp": "2024-01-01T04:00:00Z",
+        "ip_address": "192.168.1.5",
+        "connection_type": "DSL",
+        "download_speed_mbps": 40.0,
+        "upload_speed_mbps": 8.0,
+        "latency_ms": 35,
+        "packet_loss_percent": 1.2,
+        "server_location": "Miami",
+        "network_provider": "ProviderB"
+    },
+    {
+        "record_id": "6",
+        "timestamp": "2024-01-01T05:00:00Z",
+        "ip_address": "192.168.1.6",
+        "connection_type": "Cable",
+        "download_speed_mbps": 120.0,
+        "upload_speed_mbps": 30.0,
+        "latency_ms": 18,
+        "packet_loss_percent": 0.3,
+        "server_location": "Houston",
+        "network_provider": "ProviderC"
+    },
+    {
+        "record_id": "7",
+        "timestamp": "2024-01-01T06:00:00Z",
+        "ip_address": "192.168.1.7",
+        "connection_type": "Fiber",
+        "download_speed_mbps": 250.0,
+        "upload_speed_mbps": 100.0,
+        "latency_ms": 5,
+        "packet_loss_percent": 0.05,
+        "server_location": "Seattle",
+        "network_provider": "ProviderA"
+    },
+    {
+        "record_id": "8",
+        "timestamp": "2024-01-01T07:00:00Z",
+        "ip_address": "192.168.1.8",
+        "connection_type": "DSL",
+        "download_speed_mbps": 45.0,
+        "upload_speed_mbps": 12.0,
+        "latency_ms": 40,
+        "packet_loss_percent": 1.5,
+        "server_location": "Atlanta",
+        "network_provider": "ProviderB"
+    },
+    {
+        "record_id": "9",
+        "timestamp": "2024-01-01T08:00:00Z",
+        "ip_address": "192.168.1.9",
+        "connection_type": "Cable",
+        "download_speed_mbps": 110.0,
+        "upload_speed_mbps": 35.0,
+        "latency_ms": 22,
+        "packet_loss_percent": 0.4,
+        "server_location": "Philadelphia",
+        "network_provider": "ProviderC"
+    },
+    {
+        "record_id": "10",
+        "timestamp": "2024-01-01T09:00:00Z",
+        "ip_address": "192.168.1.10",
+        "connection_type": "Fiber",
+        "download_speed_mbps": 220.0,
+        "upload_speed_mbps": 90.0,
+        "latency_ms": 7,
+        "packet_loss_percent": 0.2,
+        "server_location": "Boston",
+        "network_provider": "ProviderA"
+    }
+]

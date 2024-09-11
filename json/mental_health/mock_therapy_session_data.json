@@ -1,0 +1,105 @@
+{
+    "therapy_sessions": [
+      {
+        "session_id": 9001,
+        "patient_id": 10001,
+        "therapist": "Dr. Emily Clark",
+        "session_date": "2023-09-02",
+        "duration_minutes": 60,
+        "session_type": "Cognitive Behavioral Therapy",
+        "notes": "Discussed anxiety triggers and coping mechanisms. Introduced deep breathing techniques.",
+        "patient_progress": "Moderate improvement"
+      },
+      {
+        "session_id": 9002,
+        "patient_id": 10002,
+        "therapist": "Dr. Robert Lee",
+        "session_date": "2023-08-28",
+        "duration_minutes": 45,
+        "session_type": "Dialectical Behavior Therapy",
+        "notes": "Focused on emotional regulation and impulse control.",
+        "patient_progress": "Slight improvement"
+      },
+      {
+        "session_id": 9003,
+        "patient_id": 10003,
+        "therapist": "Dr. Sarah Green",
+        "session_date": "2023-08-20",
+        "duration_minutes": 50,
+        "session_type": "Exposure Therapy",
+        "notes": "Patient practiced exposure to public spaces. Anxiety levels high but manageable.",
+        "patient_progress": "Gradual progress"
+      },
+      {
+        "session_id": 9004,
+        "patient_id": 10004,
+        "therapist": "Dr. Emily Clark",
+        "session_date": "2023-07-30",
+        "duration_minutes": 60,
+        "session_type": "Cognitive Behavioral Therapy",
+        "notes": "Worked on OCD-related thought patterns. Homework assigned.",
+        "patient_progress": "Stable"
+      },
+      {
+        "session_id": 9005,
+        "patient_id": 10005,
+        "therapist": "Dr. Robert Lee",
+        "session_date": "2023-09-10",
+        "duration_minutes": 75,
+        "session_type": "Trauma-Focused Therapy",
+        "notes": "Discussed flashbacks and avoidance behavior. Safety plan created.",
+        "patient_progress": "Significant improvement"
+      },
+      {
+        "session_id": 9006,
+        "patient_id": 10006,
+        "therapist": "Dr. Emily Clark",
+        "session_date": "2023-08-15",
+        "duration_minutes": 45,
+        "session_type": "Cognitive Behavioral Therapy",
+        "notes": "Reviewed social interactions and anxiety levels. Role-playing exercises performed.",
+        "patient_progress": "Moderate improvement"
+      },
+      {
+        "session_id": 9007,
+        "patient_id": 10007,
+        "therapist": "Dr. Michael Jones",
+        "session_date": "2023-07-25",
+        "duration_minutes": 60,
+        "session_type": "Interpersonal Therapy",
+        "notes": "Explored interpersonal conflicts and feelings of guilt.",
+        "patient_progress": "Stable"
+      },
+      {
+        "session_id": 9008,
+        "patient_id": 10008,
+        "therapist": "Dr. Robert Lee",
+        "session_date": "2023-09-05",
+        "duration_minutes": 90,
+        "session_type": "Psychosocial Therapy",
+        "notes": "Discussed medication compliance and managing daily activities.",
+        "patient_progress": "Slight improvement"
+      },
+      {
+        "session_id": 9009,
+        "patient_id": 10009,
+        "therapist": "Dr. Sarah Green",
+        "session_date": "2023-08-20",
+        "duration_minutes": 50,
+        "session_type": "Exposure Therapy",
+        "notes": "Patient practiced controlled exposure to anxiety-inducing situations.",
+        "patient_progress": "Gradual improvement"
+      },
+      {
+        "session_id": 9010,
+        "patient_id": 10010,
+        "therapist": "Dr. Michael Jones",
+        "session_date": "2023-09-02",
+        "duration_minutes": 60,
+        "session_type": "Cognitive Behavioral Therapy",
+        "notes": "Focused on cognitive distortions and anxiety management.",
+        "patient_progress": "Significant improvement"
+      }
+    ]
+  }
+  

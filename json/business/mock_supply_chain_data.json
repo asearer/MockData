@@ -1,0 +1,55 @@
+{
+    "supply_chain": [
+      {
+        "product_id": 501,
+        "supplier_id": 301,
+        "order_date": "2023-03-12",
+        "delivery_date": "2023-03-18",
+        "shipping_method": "Air",
+        "warehouse_location": "Chicago",
+        "inventory_level": 120,
+        "lead_time_days": 6
+      },
+      {
+        "product_id": 502,
+        "supplier_id": 302,
+        "order_date": "2023-03-15",
+        "delivery_date": "2023-03-20",
+        "shipping_method": "Sea",
+        "warehouse_location": "New York",
+        "inventory_level": 80,
+        "lead_time_days": 5
+      },
+      {
+        "product_id": 503,
+        "supplier_id": 303,
+        "order_date": "2023-03-20",
+        "delivery_date": "2023-03-25",
+        "shipping_method": "Land",
+        "warehouse_location": "Texas",
+        "inventory_level": 60,
+        "lead_time_days": 7
+      },
+      {
+        "product_id": 504,
+        "supplier_id": 304,
+        "order_date": "2023-03-22",
+        "delivery_date": "2023-03-28",
+        "shipping_method": "Air",
+        "warehouse_location": "Florida",
+        "inventory_level": 100,
+        "lead_time_days": 6
+      },
+      {
+        "product_id": 505,
+        "supplier_id": 305,
+        "order_date": "2023-03-25",
+        "delivery_date": "2023-03-30",
+        "shipping_method": "Sea",
+        "warehouse_location": "California",
+        "inventory_level": 150,
+        "lead_time_days": 5
+      }
+    ]
+  }
+  

@@ -1,0 +1,223 @@
+{
+    "emails": [
+        {
+            "id": "1",
+            "from": {
+                "email": "alice.jones@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "bob.white@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "cc": [
+                {
+                    "email": "ceo@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "bcc": [
+                {
+                    "email": "it@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Quarterly Report",
+            "body": "Hi Bob, \n\nPlease find attached the quarterly report. Let me know if you have any questions or need further details.\n\nBest,\nAlice",
+            "attachments": [
+                {
+                    "filename": "quarterly_report_q2_2024.pdf",
+                    "size_kb": 500,
+                    "file_type": "application/pdf"
+                }
+            ],
+            "date_sent": "2024-09-01T10:00:00Z",
+            "date_received": "2024-09-01T10:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "2",
+            "from": {
+                "email": "bob.white@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "alice.jones@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Re: Quarterly Report",
+            "body": "Hi Alice, \n\nReceived the report. Everything looks good. I will review it in detail and get back to you if I have any questions.\n\nBest,\nBob",
+            "date_sent": "2024-09-01T11:00:00Z",
+            "date_received": "2024-09-01T11:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "3",
+            "from": {
+                "email": "carol.green@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "david.black@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "cc": [
+                {
+                    "email": "marketing@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Marketing Strategy Meeting",
+            "body": "Hi David, \n\nPlease find the agenda for the upcoming marketing strategy meeting. Let me know if there are any additional topics you'd like to cover.\n\nThanks,\nCarol",
+            "attachments": [
+                {
+                    "filename": "meeting_agenda.docx",
+                    "size_kb": 45,
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ],
+            "date_sent": "2024-09-02T09:00:00Z",
+            "date_received": "2024-09-02T09:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "4",
+            "from": {
+                "email": "david.black@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "carol.green@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Re: Marketing Strategy Meeting",
+            "body": "Hi Carol, \n\nThank you for the agenda. I have reviewed it and I am happy with the topics listed. I look forward to the meeting.\n\nBest,\nDavid",
+            "date_sent": "2024-09-02T10:00:00Z",
+            "date_received": "2024-09-02T10:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "5",
+            "from": {
+                "email": "emma.brown@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "frank.miller@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Project Deadline Reminder",
+            "body": "Hi Frank, \n\nThis is a reminder that the project deadline is approaching. Please ensure that all tasks are completed by the end of this week.\n\nBest regards,\nEmma",
+            "date_sent": "2024-09-03T08:00:00Z",
+            "date_received": "2024-09-03T08:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "6",
+            "from": {
+                "email": "frank.miller@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "emma.brown@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Re: Project Deadline Reminder",
+            "body": "Hi Emma, \n\nThanks for the reminder. We are on track to meet the deadline. I will keep you updated on the progress.\n\nBest,\nFrank",
+            "date_sent": "2024-09-03T08:30:00Z",
+            "date_received": "2024-09-03T08:35:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "7",
+            "from": {
+                "email": "george.lee@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "hannah.taylor@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Weekly Sync-Up",
+            "body": "Hi Hannah, \n\nLet's schedule a time for our weekly sync-up. Please let me know your availability for this week.\n\nBest,\nGeorge",
+            "date_sent": "2024-09-04T10:00:00Z",
+            "date_received": "2024-09-04T10:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "8",
+            "from": {
+                "email": "hannah.taylor@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "george.lee@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Re: Weekly Sync-Up",
+            "body": "Hi George, \n\nI am available on Thursday afternoon. Does that work for you?\n\nThanks,\nHannah",
+            "date_sent": "2024-09-04T10:30:00Z",
+            "date_received": "2024-09-04T10:35:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "9",
+            "from": {
+                "email": "isabella.martin@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "jackson.wilson@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Invoice Submission",
+            "body": "Hi Jackson, \n\nAttached is the invoice for the last month's services. Please process it at your earliest convenience.\n\nBest,\nIsabella",
+            "attachments": [
+                {
+                    "filename": "invoice_september_2024.pdf",
+                    "size_kb": 200,
+                    "file_type": "application/pdf"
+                }
+            ],
+            "date_sent": "2024-09-05T14:00:00Z",
+            "date_received": "2024-09-05T14:05:00Z",
+            "status": "sent"
+        },
+        {
+            "id": "10",
+            "from": {
+                "email": "jackson.wilson@example.com",
+                "provider": "example.com"
+            },
+            "to": [
+                {
+                    "email": "isabella.martin@example.com",
+                    "provider": "example.com"
+                }
+            ],
+            "subject": "Re: Invoice Submission",
+            "body": "Hi Isabella, \n\nThank you for the invoice. I will process it and let you know once it's done.\n\nBest,\nJackson",
+            "date_sent": "2024-09-05T14:30:00Z",
+            "date_received": "2024-09-05T14:35:00Z",
+            "status": "sent"
+        }
+    ]
+}

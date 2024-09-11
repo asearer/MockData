@@ -1,0 +1,125 @@
+{
+    "patients": [
+      {
+        "patient_id": 10001,
+        "name": "John Doe",
+        "age": 45,
+        "gender": "Male",
+        "location": "New York",
+        "medical_conditions": ["Diabetes", "Hypertension"],
+        "last_visit": "2023-07-12",
+        "medications": ["Metformin", "Lisinopril"],
+        "allergies": ["Penicillin"],
+        "doctor_assigned": "Dr. Emily Clark"
+      },
+      {
+        "patient_id": 10002,
+        "name": "Jane Smith",
+        "age": 34,
+        "gender": "Female",
+        "location": "California",
+        "medical_conditions": ["Asthma"],
+        "last_visit": "2023-08-23",
+        "medications": ["Albuterol"],
+        "allergies": ["Peanuts"],
+        "doctor_assigned": "Dr. Michael Jones"
+      },
+      {
+        "patient_id": 10003,
+        "name": "David Brown",
+        "age": 56,
+        "gender": "Male",
+        "location": "Texas",
+        "medical_conditions": ["High Cholesterol"],
+        "last_visit": "2023-09-01",
+        "medications": ["Atorvastatin"],
+        "allergies": [],
+        "doctor_assigned": "Dr. Sarah Green"
+      },
+      {
+        "patient_id": 10004,
+        "name": "Linda Williams",
+        "age": 67,
+        "gender": "Female",
+        "location": "Florida",
+        "medical_conditions": ["Arthritis", "Hypertension"],
+        "last_visit": "2023-06-15",
+        "medications": ["Ibuprofen", "Lisinopril"],
+        "allergies": ["Shellfish"],
+        "doctor_assigned": "Dr. Emily Clark"
+      },
+      {
+        "patient_id": 10005,
+        "name": "Michael Davis",
+        "age": 50,
+        "gender": "Male",
+        "location": "Illinois",
+        "medical_conditions": ["Obesity"],
+        "last_visit": "2023-07-20",
+        "medications": ["Orlistat"],
+        "allergies": [],
+        "doctor_assigned": "Dr. Robert Lee"
+      },
+      {
+        "patient_id": 10006,
+        "name": "Sarah Miller",
+        "age": 29,
+        "gender": "Female",
+        "location": "Washington",
+        "medical_conditions": ["Anxiety"],
+        "last_visit": "2023-09-10",
+        "medications": ["Sertraline"],
+        "allergies": ["Latex"],
+        "doctor_assigned": "Dr. Michael Jones"
+      },
+      {
+        "patient_id": 10007,
+        "name": "James Taylor",
+        "age": 72,
+        "gender": "Male",
+        "location": "Ohio",
+        "medical_conditions": ["Heart Disease"],
+        "last_visit": "2023-08-05",
+        "medications": ["Aspirin"],
+        "allergies": [],
+        "doctor_assigned": "Dr. Sarah Green"
+      },
+      {
+        "patient_id": 10008,
+        "name": "Patricia Wilson",
+        "age": 39,
+        "gender": "Female",
+        "location": "Arizona",
+        "medical_conditions": ["Thyroid Disorder"],
+        "last_visit": "2023-07-28",
+        "medications": ["Levothyroxine"],
+        "allergies": ["Dairy"],
+        "doctor_assigned": "Dr. Emily Clark"
+      },
+      {
+        "patient_id": 10009,
+        "name": "Robert Anderson",
+        "age": 61,
+        "gender": "Male",
+        "location": "Michigan",
+        "medical_conditions": ["Hypertension", "Kidney Disease"],
+        "last_visit": "2023-06-30",
+        "medications": ["Lisinopril", "Furosemide"],
+        "allergies": ["Gluten"],
+        "doctor_assigned": "Dr. Robert Lee"
+      },
+      {
+        "patient_id": 10010,
+        "name": "Mary Thomas",
+        "age": 47,
+        "gender": "Female",
+        "location": "Georgia",
+        "medical_conditions": ["Migraine"],
+        "last_visit": "2023-08-17",
+        "medications": ["Sumatriptan"],
+        "allergies": ["Cats"],
+        "doctor_assigned": "Dr. Michael Jones"
+      }
+    ]
+  }
+  

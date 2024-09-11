@@ -1,0 +1,60 @@
+{
+    "marketing_campaigns": [
+      {
+        "campaign_id": 10001,
+        "campaign_type": "Social Media",
+        "start_date": "2023-04-01",
+        "end_date": "2023-04-30",
+        "budget": 5000,
+        "clicks": 15000,
+        "impressions": 500000,
+        "conversions": 1000,
+        "roi": 2.5
+      },
+      {
+        "campaign_id": 10002,
+        "campaign_type": "Email",
+        "start_date": "2023-05-01",
+        "end_date": "2023-05-15",
+        "budget": 2000,
+        "clicks": 5000,
+        "impressions": 200000,
+        "conversions": 300,
+        "roi": 2.0
+      },
+      {
+        "campaign_id": 10003,
+        "campaign_type": "TV",
+        "start_date": "2023-06-01",
+        "end_date": "2023-06-30",
+        "budget": 10000,
+        "clicks": 30000,
+        "impressions": 1000000,
+        "conversions": 2500,
+        "roi": 3.0
+      },
+      {
+        "campaign_id": 10004,
+        "campaign_type": "Google Ads",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-15",
+        "budget": 4000,
+        "clicks": 12000,
+        "impressions": 400000,
+        "conversions": 800,
+        "roi": 2.2
+      },
+      {
+        "campaign_id": 10005,
+        "campaign_type": "Print",
+        "start_date": "2023-08-01",
+        "end_date": "2023-08-31",
+        "budget": 3000,
+        "clicks": 7000,
+        "impressions": 250000,
+        "conversions": 500,
+        "roi": 1.8
+      }
+    ]
+  }
+  
