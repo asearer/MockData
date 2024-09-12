@@ -1,0 +1,292 @@
+{
+    "label": {
+      "name": "Suburban Noize Records",
+      "founded": "1997",
+      "founders": ["Brad Xavier (Daddy X)", "Kevin Zinger"],
+      "location": "Burbank, California, USA",
+      "genres": ["Rap Rock", "Punk Rock", "Alternative Hip Hop", "Underground Hip Hop"]
+    },
+    "artists": [
+      {
+        "name": "Kottonmouth Kings",
+        "members": ["Daddy X", "D-Loc", "Johnny Richter", "Saint Dog", "DJ Bobby B"],
+        "genre": ["Rap Rock", "Punk Rock", "Hip Hop"],
+        "active_years": "1996-present",
+        "albums": [
+          {
+            "title": "Royal Highness",
+            "release_date": "August 11, 1998",
+            "genre": "Rap Rock",
+            "label": "Capitol Records, Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Royal Highness",
+                "duration": "0:59"
+              },
+              {
+                "title": "Bump",
+                "duration": "4:13"
+              },
+              {
+                "title": "Dog's Life",
+                "duration": "4:29"
+              },
+              {
+                "title": "Suburban Life",
+                "duration": "3:53"
+              }
+            ]
+          },
+          {
+            "title": "High Society",
+            "release_date": "June 27, 2000",
+            "genre": "Rap Rock",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "High Society",
+                "duration": "3:20"
+              },
+              {
+                "title": "Peace Not Greed",
+                "duration": "3:49"
+              },
+              {
+                "title": "The Lottery",
+                "duration": "3:38"
+              },
+              {
+                "title": "King's Blend",
+                "duration": "3:57"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hed PE",
+        "members": ["Jared Gomes (Jahred)", "Wes Geer", "Doug Boyce", "Mark 'Moke' Bistany"],
+        "genre": ["Rapcore", "Nu Metal", "Punk Rock"],
+        "active_years": "1994-present",
+        "albums": [
+          {
+            "title": "Only in Amerika",
+            "release_date": "October 19, 2004",
+            "genre": "Nu Metal, Rapcore",
+            "label": "Koch Records, Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Foreplay",
+                "duration": "1:58"
+              },
+              {
+                "title": "Represent",
+                "duration": "3:49"
+              },
+              {
+                "title": "War",
+                "duration": "2:57"
+              },
+              {
+                "title": "The Box",
+                "duration": "4:44"
+              }
+            ]
+          },
+          {
+            "title": "Back 2 Base X",
+            "release_date": "June 6, 2006",
+            "genre": "Rapcore, Punk Rock",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Listen",
+                "duration": "2:47"
+              },
+              {
+                "title": "Novus Ordos Clitorus",
+                "duration": "2:39"
+              },
+              {
+                "title": "Let's Ride",
+                "duration": "3:07"
+              },
+              {
+                "title": "Beware Do We Go",
+                "duration": "3:51"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kingspade",
+        "members": ["D-Loc", "Johnny Richter"],
+        "genre": ["Hip Hop", "Rap Rock"],
+        "active_years": "2003-present",
+        "albums": [
+          {
+            "title": "Kingspade",
+            "release_date": "August 24, 2004",
+            "genre": "Rap Rock",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Intro",
+                "duration": "1:03"
+              },
+              {
+                "title": "Spaded Jaded & Faded",
+                "duration": "4:10"
+              },
+              {
+                "title": "Drunk in the Club",
+                "duration": "4:06"
+              },
+              {
+                "title": "Life",
+                "duration": "4:25"
+              }
+            ]
+          },
+          {
+            "title": "P.T.B.",
+            "release_date": "April 24, 2007",
+            "genre": "Rap Rock",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "P.T.B.",
+                "duration": "3:47"
+              },
+              {
+                "title": "Who We Are",
+                "duration": "3:58"
+              },
+              {
+                "title": "Down 4 Da Krown",
+                "duration": "4:05"
+              },
+              {
+                "title": "Same ol' Bitches",
+                "duration": "3:31"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Big B",
+        "real_name": "Bryan Mahoney",
+        "genre": ["Hip Hop", "Alternative Rock"],
+        "active_years": "2004-present",
+        "albums": [
+          {
+            "title": "High Class White Trash",
+            "release_date": "January 21, 2004",
+            "genre": "Hip Hop",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Hooligan",
+                "duration": "4:03"
+              },
+              {
+                "title": "White Trash Life",
+                "duration": "3:34"
+              },
+              {
+                "title": "Supafly",
+                "duration": "3:21"
+              },
+              {
+                "title": "Last Round",
+                "duration": "4:27"
+              }
+            ]
+          },
+          {
+            "title": "More to Hate",
+            "release_date": "August 28, 2007",
+            "genre": "Hip Hop, Rap Rock",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "White Trash Renegade",
+                "duration": "3:38"
+              },
+              {
+                "title": "Sinner",
+                "duration": "4:22"
+              },
+              {
+                "title": "Life Lessons",
+                "duration": "3:42"
+              },
+              {
+                "title": "Breathe",
+                "duration": "4:32"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "OPM",
+        "members": ["John E. Necro", "Geoff Turney", "Matt Rowe", "Jonathan Williams"],
+        "genre": ["Rap Rock", "Alternative Rock"],
+        "active_years": "1999-present",
+        "albums": [
+          {
+            "title": "Menace to Sobriety",
+            "release_date": "August 15, 2000",
+            "genre": "Rap Rock, Alternative Rock",
+            "label": "Atlantic Records, Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Heaven Is a Halfpipe",
+                "duration": "4:17"
+              },
+              {
+                "title": "El Capitan",
+                "duration": "3:24"
+              },
+              {
+                "title": "Dealerman",
+                "duration": "4:00"
+              },
+              {
+                "title": "Fish Out of Water",
+                "duration": "3:12"
+              }
+            ]
+          },
+          {
+            "title": "ForThemAsses",
+            "release_date": "June 17, 2004",
+            "genre": "Rap Rock",
+            "label": "Suburban Noize Records",
+            "tracks": [
+              {
+                "title": "Horny",
+                "duration": "3:25"
+              },
+              {
+                "title": "Lovesick",
+                "duration": "3:52"
+              },
+              {
+                "title": "No Fear",
+                "duration": "3:47"
+              },
+              {
+                "title": "Tell Me What You Want",
+                "duration": "3:40"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

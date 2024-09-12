@@ -1,0 +1,237 @@
+{
+    "band": {
+      "name": "Kottonmouth Kings",
+      "founded": "1996",
+      "members": [
+        {
+          "name": "Daddy X",
+          "role": "Vocalist",
+          "active_years": "1996-present"
+        },
+        {
+          "name": "D-Loc",
+          "role": "Vocalist",
+          "active_years": "1996-present"
+        },
+        {
+          "name": "Johnny Richter",
+          "role": "Vocalist",
+          "active_years": "1996-2013, 2018-present"
+        },
+        {
+          "name": "Saint Dog",
+          "role": "Vocalist",
+          "active_years": "1996-1999, 2013-2015",
+          "note": "Passed away in 2020"
+        },
+        {
+          "name": "DJ Bobby B",
+          "role": "DJ",
+          "active_years": "1996-2015"
+        }
+      ],
+      "genre": ["Rap Rock", "Punk Rock", "Hip Hop"],
+      "location": "Orange County, California, USA",
+      "label": ["Suburban Noize Records", "Capitol Records"],
+      "active_years": "1996-present"
+    },
+    "albums": [
+      {
+        "title": "Royal Highness",
+        "release_date": "August 11, 1998",
+        "genre": "Rap Rock",
+        "label": "Capitol Records, Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "Royal Highness",
+            "duration": "0:59"
+          },
+          {
+            "title": "Bump",
+            "duration": "4:13"
+          },
+          {
+            "title": "Dog's Life",
+            "duration": "4:29"
+          },
+          {
+            "title": "Suburban Life",
+            "duration": "3:53"
+          },
+          {
+            "title": "Life Ain't What It Seems",
+            "duration": "3:42"
+          }
+        ]
+      },
+      {
+        "title": "High Society",
+        "release_date": "June 27, 2000",
+        "genre": "Rap Rock",
+        "label": "Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "High Society",
+            "duration": "3:20"
+          },
+          {
+            "title": "Peace Not Greed",
+            "duration": "3:49"
+          },
+          {
+            "title": "The Lottery",
+            "duration": "3:38"
+          },
+          {
+            "title": "King's Blend",
+            "duration": "3:57"
+          },
+          {
+            "title": "Wickit Clowns",
+            "duration": "4:33"
+          }
+        ]
+      },
+      {
+        "title": "Hidden Stash II: The Kream of the Krop",
+        "release_date": "October 9, 2001",
+        "genre": "Rap Rock",
+        "label": "Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "Full Throttle",
+            "duration": "4:05"
+          },
+          {
+            "title": "Tell Me Why",
+            "duration": "3:31"
+          },
+          {
+            "title": "Dying Daze",
+            "duration": "4:11"
+          },
+          {
+            "title": "Play On",
+            "duration": "3:45"
+          },
+          {
+            "title": "Spies",
+            "duration": "4:15"
+          }
+        ]
+      },
+      {
+        "title": "Rollin' Stoned",
+        "release_date": "October 8, 2002",
+        "genre": "Rap Rock, Punk Rock",
+        "label": "Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "Playas Lounge",
+            "duration": "1:53"
+          },
+          {
+            "title": "Sticky Icky Situation",
+            "duration": "4:23"
+          },
+          {
+            "title": "Positive Vibes",
+            "duration": "4:40"
+          },
+          {
+            "title": "Full Throttle",
+            "duration": "4:05"
+          },
+          {
+            "title": "The Deal",
+            "duration": "3:21"
+          }
+        ]
+      },
+      {
+        "title": "Fire It Up",
+        "release_date": "April 20, 2004",
+        "genre": "Rap Rock",
+        "label": "Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "Intro",
+            "duration": "1:16"
+          },
+          {
+            "title": "Fire It Up",
+            "duration": "3:51"
+          },
+          {
+            "title": "Where's the Weed At?",
+            "duration": "3:50"
+          },
+          {
+            "title": "Bong Tokin' Alcoholics",
+            "duration": "4:20"
+          },
+          {
+            "title": "Pack Your Bowls",
+            "duration": "4:05"
+          }
+        ]
+      },
+      {
+        "title": "Cloud Nine",
+        "release_date": "September 4, 2007",
+        "genre": "Rap Rock, Punk Rock",
+        "label": "Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "City 2 City",
+            "duration": "4:09"
+          },
+          {
+            "title": "Packin' the Goods",
+            "duration": "3:26"
+          },
+          {
+            "title": "Think 4 Yourself",
+            "duration": "3:30"
+          },
+          {
+            "title": "Time to Get High",
+            "duration": "3:42"
+          },
+          {
+            "title": "Freeworld",
+            "duration": "4:20"
+          }
+        ]
+      },
+      {
+        "title": "Long Live The Kings",
+        "release_date": "April 20, 2010",
+        "genre": "Rap Rock",
+        "label": "Suburban Noize Records",
+        "tracks": [
+          {
+            "title": "Long Live The Kings",
+            "duration": "4:25"
+          },
+          {
+            "title": "Party Monsters",
+            "duration": "4:07"
+          },
+          {
+            "title": "Mad Respect",
+            "duration": "4:00"
+          },
+          {
+            "title": "At It Again",
+            "duration": "3:48"
+          },
+          {
+            "title": "Make It Rain",
+            "duration": "4:29"
+          }
+        ]
+      }
+    ]
+  }
+  

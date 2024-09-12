@@ -1,0 +1,239 @@
+{
+    "label": {
+      "name": "Psychopathic Records",
+      "founded": "1991",
+      "founders": [
+        "Joseph Bruce (Violent J)",
+        "Joseph Utsler (Shaggy 2 Dope)",
+        "Alex Abbiss"
+      ],
+      "location": "Farmington Hills, Michigan, USA",
+      "genres": [
+        "Horrorcore",
+        "Rap Rock",
+        "Underground Hip Hop"
+      ]
+    },
+    "artists": [
+      {
+        "name": "Insane Clown Posse",
+        "members": [
+          "Violent J",
+          "Shaggy 2 Dope"
+        ],
+        "genre": [
+          "Horrorcore",
+          "Rap Rock"
+        ],
+        "active_years": "1989-present",
+        "albums": [
+          {
+            "title": "Carnival of Carnage",
+            "release_date": "October 18, 1992",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Intro",
+                "duration": "1:45"
+              },
+              {
+                "title": "The Stalker",
+                "duration": "4:30"
+              },
+              {
+                "title": "Night of the Axe",
+                "duration": "3:39"
+              },
+              {
+                "title": "Carnival of Carnage",
+                "duration": "4:21"
+              }
+            ]
+          },
+          {
+            "title": "The Great Milenko",
+            "release_date": "June 24, 1997",
+            "genre": "Horrorcore",
+            "label": "Hollywood Records (initially), then Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Intro",
+                "duration": "2:00"
+              },
+              {
+                "title": "Hokus Pokus",
+                "duration": "4:22"
+              },
+              {
+                "title": "Piggy Pie",
+                "duration": "4:24"
+              },
+              {
+                "title": "How Many Times?",
+                "duration": "6:20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Twiztid",
+        "members": [
+          "Jamie Madrox",
+          "Monoxide"
+        ],
+        "genre": [
+          "Horrorcore",
+          "Underground Hip Hop"
+        ],
+        "active_years": "1997-present",
+        "albums": [
+          {
+            "title": "Mostasteless",
+            "release_date": "November 25, 1997",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Introduction",
+                "duration": "1:30"
+              },
+              {
+                "title": "Twiztid",
+                "duration": "3:50"
+              },
+              {
+                "title": "How Does It Feel?",
+                "duration": "4:05"
+              }
+            ]
+          },
+          {
+            "title": "Freek Show",
+            "release_date": "October 31, 2000",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Freek Show",
+                "duration": "4:02"
+              },
+              {
+                "title": "We Don’t Die",
+                "duration": "3:45"
+              },
+              {
+                "title": "Mutant X",
+                "duration": "4:29"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Blaze Ya Dead Homie",
+        "real_name": "Chris Rouleau",
+        "genre": [
+          "Horrorcore",
+          "Gangsta Rap"
+        ],
+        "active_years": "1999-present",
+        "albums": [
+          {
+            "title": "1 Less G N Da Hood",
+            "release_date": "October 16, 2001",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "The Eulogy",
+                "duration": "1:55"
+              },
+              {
+                "title": "Grave Ain't No Place",
+                "duration": "4:22"
+              },
+              {
+                "title": "Saturday Afternoon",
+                "duration": "3:50"
+              }
+            ]
+          },
+          {
+            "title": "Clockwork Gray",
+            "release_date": "August 21, 2007",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Clockwork Gray",
+                "duration": "3:41"
+              },
+              {
+                "title": "Ill Connect",
+                "duration": "3:58"
+              },
+              {
+                "title": "Stick Ya Hands Up",
+                "duration": "3:44"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ABK (Anybody Killa)",
+        "real_name": "James Lowery",
+        "genre": [
+          "Horrorcore",
+          "Underground Hip Hop"
+        ],
+        "active_years": "2000-present",
+        "albums": [
+          {
+            "title": "Hatchet Warrior",
+            "release_date": "April 8, 2003",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Kill Me",
+                "duration": "2:50"
+              },
+              {
+                "title": "Ghetto Neighbor",
+                "duration": "4:05"
+              },
+              {
+                "title": "Sticky Icky Situation",
+                "duration": "3:35"
+              }
+            ]
+          },
+          {
+            "title": "Dirty History",
+            "release_date": "July 27, 2004",
+            "genre": "Horrorcore",
+            "label": "Psychopathic Records",
+            "tracks": [
+              {
+                "title": "Intro",
+                "duration": "1:30"
+              },
+              {
+                "title": "Ya Neden's Haunted",
+                "duration": "3:44"
+              },
+              {
+                "title": "Neva Be Peace",
+                "duration": "3:58"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+  
