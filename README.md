@@ -1,16 +1,20 @@
 # **MockData Directory**
 
-The **MockData** directory contains a comprehensive collection of simulated datasets designed for use in various applications, including testing, data visualization, and analysis. These datasets cover a range of domains, including health, clinical trials, financial records, business data, communications, Marvel characters, sports, statistical analysis, and network performance. Currently, the repository contains JSON files, with plans to expand and update the datasets to include SQL and MongoDB formats in the future.
+The **MockData** directory contains a comprehensive collection of simulated datasets designed for use in various applications, including testing, data visualization, and analysis. These datasets cover a range of domains, including health, clinical trials, financial records, business data, communications, Marvel characters, sports, statistical analysis, and network performance.
+
+In addition to JSON files, the repository now includes SQL seed files that provide a structured way to populate databases with mock data. This expansion facilitates easier integration with SQL-based applications and allows for more realistic testing scenarios.
 
 ## **Purpose**
 
 The purpose of this directory is to provide realistic, yet fictional data that can be used to:
 
 - **Test Applications:** Ensure that your applications handle data correctly and perform as expected.
-
+  
 - **Develop and Demonstrate Features:** Use simulated data to build and showcase features without relying on sensitive or real-world data.
-
+  
 - **Visualize and Analyze Data:** Create visualizations and conduct analyses to understand data patterns and trends using mock data.
+  
+- **Seed Databases:** Populate SQL databases with mock data to simulate real-world scenarios and test database interactions.
 
 ## **Directory Structure**
 
@@ -24,13 +28,20 @@ The directory is organized into subdirectories based on the type of data:
 │   ├── email_transactions/
 │   ├── financial_records/
 │   ├── marvel/
-|   ├── medical/
+│   ├── medical/
 │   ├── medical_inventory/
 │   ├── mental_health/
 │   ├── network_analysis/
 │   ├── sports/
 │   ├── statistical_analysis/
 │   └── text_conversations/
+├── sql/
+│   ├── business/
+│   ├── clinical_trials/
+│   ├── financial_records/
+│   ├── medical/
+│   ├── medical_inventory/
+│   └── mental_health/
 ```
 
 ### **Categories**
@@ -66,13 +77,13 @@ All data provided in these datasets is for **educational and testing purposes on
 ## **How to Use**
 
 1. **Download or Access Data:**
-   Ensure you have access to the JSON files available in the `/json/` directory.
+   Ensure you have access to the JSON files available in the `/json/` directory and the SQL seed files available in the `/sql/` directory.
 
 2. **Refer to Specific READMEs:**
    Each subdirectory includes a README file that provides detailed instructions on how to use the files for its respective domain.
 
 3. **Integrate Data:**
-   Utilize the data for development, testing, and analysis within your applications or databases. Follow the specific instructions provided in each README file for importing and using the data.
+   Utilize the data for development, testing, and analysis within your applications or databases. For SQL seed files, follow the specific instructions provided in each README file for importing and seeding the data into your databases.
 
 4. **Stay Updated:**
    Keep an eye on this directory as it will be updated with new data and expanded datasets, including future additions in SQL and MongoDB formats to enhance its utility for various use cases.

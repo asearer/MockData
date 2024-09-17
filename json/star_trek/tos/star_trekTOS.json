@@ -1,0 +1,340 @@
+{
+    "star_trek_tos": {
+      "tv_shows": [
+        {
+          "title": "Star Trek: The Original Series",
+          "season_count": 3,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "The Man Trap",
+              "air_date": "1966-09-08",
+              "description": "The Enterprise encounters a creature that can change its appearance and feed on salt."
+            },
+            {
+              "episode_number": 2,
+              "title": "Charlie X",
+              "air_date": "1966-09-15",
+              "description": "A young man with extraordinary powers is rescued by the Enterprise, but his powers lead to dangerous consequences."
+            },
+            {
+              "episode_number": 3,
+              "title": "Where No Man Has Gone Before",
+              "air_date": "1966-09-22",
+              "description": "The Enterprise encounters a barrier at the edge of the galaxy that gives two crew members god-like powers."
+            },
+            {
+              "episode_number": 4,
+              "title": "The Naked Time",
+              "air_date": "1966-09-29",
+              "description": "A strange infection causes the crew to lose their inhibitions and act out their suppressed desires."
+            },
+            {
+              "episode_number": 5,
+              "title": "The Enemy Within",
+              "air_date": "1966-10-06",
+              "description": "An experiment splits Captain Kirk into two beings: one representing his good side and the other his evil side."
+            },
+            {
+              "episode_number": 6,
+              "title": "Mudd's Women",
+              "air_date": "1966-10-13",
+              "description": "The crew encounters Harry Mudd, a conman with three beautiful women who are more than they seem."
+            },
+            {
+              "episode_number": 7,
+              "title": "What Are Little Girls Made Of?",
+              "air_date": "1966-10-20",
+              "description": "The Enterprise discovers a planet where a scientist has created android duplicates of his former colleagues."
+            },
+            {
+              "episode_number": 8,
+              "title": "Miri",
+              "air_date": "1966-10-27",
+              "description": "The crew discovers a planet where a disease has caused all adults to die, leaving only children who never grow up."
+            },
+            {
+              "episode_number": 9,
+              "title": "Dagger of the Mind",
+              "air_date": "1966-11-03",
+              "description": "The Enterprise investigates a rehabilitation center where mind-control technology is being abused."
+            },
+            {
+              "episode_number": 10,
+              "title": "The Corbomite Maneuver",
+              "air_date": "1966-11-10",
+              "description": "The Enterprise faces off against a mysterious alien ship with an unknown but potentially deadly weapon."
+            },
+            {
+              "episode_number": 11,
+              "title": "The Menagerie: Part I",
+              "air_date": "1966-11-17",
+              "description": "Captain Pike, the former Enterprise captain, is kidnapped and taken to the forbidden planet Talos IV."
+            },
+            {
+              "episode_number": 12,
+              "title": "The Menagerie: Part II",
+              "air_date": "1966-11-24",
+              "description": "The conclusion of the story involving Captain Pike's return to Talos IV and the truth about his current condition."
+            },
+            {
+              "episode_number": 13,
+              "title": "The Conscience of the King",
+              "air_date": "1966-12-08",
+              "description": "Kirk suspects that a renowned actor may be a notorious war criminal responsible for a massacre."
+            },
+            {
+              "episode_number": 14,
+              "title": "Balance of Terror",
+              "air_date": "1966-12-15",
+              "description": "The Enterprise engages in a tense game of cat-and-mouse with a Romulan ship armed with a cloaking device."
+            },
+            {
+              "episode_number": 15,
+              "title": "Shore Leave",
+              "air_date": "1966-12-22",
+              "description": "The crew visits a planet where their fantasies come to life, leading to unexpected complications."
+            },
+            {
+              "episode_number": 16,
+              "title": "The Galileo Seven",
+              "air_date": "1967-01-05",
+              "description": "A shuttlecraft carrying a science team crashes on a dangerous planet, and Spock must lead the crew to safety."
+            },
+            {
+              "episode_number": 17,
+              "title": "The Squire of Gothos",
+              "air_date": "1967-01-12",
+              "description": "The Enterprise encounters a powerful being who takes them to his private planet and plays games with their lives."
+            },
+            {
+              "episode_number": 18,
+              "title": "Arena",
+              "air_date": "1967-01-19",
+              "description": "Kirk is forced to fight an alien champion in a trial by combat while the fate of the Enterprise hangs in the balance."
+            },
+            {
+              "episode_number": 19,
+              "title": "Tomorrow Is Yesterday",
+              "air_date": "1967-01-26",
+              "description": "The Enterprise is sent back in time to 20th-century Earth and must avoid altering history while returning to their own time."
+            },
+            {
+              "episode_number": 20,
+              "title": "Court Martial",
+              "air_date": "1967-02-02",
+              "description": "Kirk is put on trial for the death of a crew member, and must defend himself against charges of negligence."
+            },
+            {
+              "episode_number": 21,
+              "title": "The Return of the Archons",
+              "air_date": "1967-02-09",
+              "description": "The Enterprise investigates a planet where the inhabitants live under the control of a mysterious computer entity."
+            },
+            {
+              "episode_number": 22,
+              "title": "Space Seed",
+              "air_date": "1967-02-16",
+              "description": "The crew discovers a genetically engineered tyrant from the 20th century who attempts to take control of the Enterprise."
+            },
+            {
+              "episode_number": 23,
+              "title": "A Taste of Armageddon",
+              "air_date": "1967-02-23",
+              "description": "The Enterprise encounters a planet where war is waged by computer simulation, and must prevent a real war from breaking out."
+            },
+            {
+              "episode_number": 24,
+              "title": "This Side of Paradise",
+              "air_date": "1967-03-02",
+              "description": "The crew encounters a planet where a plant-based organism makes people experience eternal happiness and live without conflict."
+            },
+            {
+              "episode_number": 25,
+              "title": "The Devil in the Dark",
+              "air_date": "1967-03-09",
+              "description": "The Enterprise investigates a series of murders on a mining colony and discovers an intelligent, misunderstood creature."
+            },
+            {
+              "episode_number": 26,
+              "title": "Operation: Annihilate!",
+              "air_date": "1967-04-28",
+              "description": "The crew of the Enterprise must deal with a dangerous alien entity that is taking control of people’s minds."
+            },
+            {
+              "episode_number": 1,
+              "title": "Spock's Brain",
+              "air_date": "1968-09-20",
+              "description": "Kirk and the crew face off against aliens who have stolen Spock's brain and plan to use it to control a powerful machine."
+            },
+            {
+              "episode_number": 2,
+              "title": "The Enterprise Incident",
+              "air_date": "1968-09-27",
+              "description": "Kirk and the crew get involved in a secret mission to steal a Romulan cloaking device."
+            },
+            {
+              "episode_number": 3,
+              "title": "And the Children Shall Lead",
+              "air_date": "1968-10-04",
+              "description": "The Enterprise encounters a planet where children possess telepathic powers and manipulate adults."
+            },
+            {
+              "episode_number": 4,
+              "title": "Is There in Truth No Beauty?",
+              "air_date": "1968-10-11",
+              "description": "The crew faces a challenge when they meet a blind alien ambassador with powerful psychic abilities."
+            },
+            {
+              "episode_number": 5,
+              "title": "Spectre of the Gun",
+              "air_date": "1968-10-18",
+              "description": "The Enterprise crew is transported to the Wild West and must avoid disrupting a historical event while trying to return to their own time."
+            },
+            {
+              "episode_number": 6,
+              "title": "Day of the Dove",
+              "air_date": "1968-10-25",
+              "description": "The Enterprise is caught in a conflict between the Klingons and the crew, manipulated by a mysterious entity."
+            },
+            {
+              "episode_number": 7,
+              "title": "For the World Is Hollow and I Have Touched the Sky",
+              "air_date": "1968-11-01",
+              "description": "The Enterprise discovers a living spaceship that houses an entire civilization, facing a crisis when the ship's mission is jeopardized."
+            },
+            {
+              "episode_number": 8,
+              "title": "The Tholian Web",
+              "air_date": "1968-11-08",
+              "description": "Kirk and the crew are trapped in an alternate dimension and must find a way back while dealing with a hostile alien species."
+            },
+            {
+              "episode_number": 9,
+              "title": "Plato's Stepchildren",
+              "air_date": "1968-11-15",
+              "description": "The Enterprise encounters a planet where telekinetic aliens force the crew into submission for their entertainment."
+            },
+            {
+              "episode_number": 10,
+              "title": "Wink of an Eye",
+              "air_date": "1968-11-22",
+              "description": "The Enterprise is visited by aliens with the ability to move at superhuman speeds, creating danger for the crew."
+            },
+            {
+              "episode_number": 11,
+              "title": "The Empath",
+              "air_date": "1968-12-06",
+              "description": "The crew encounters a planet where a mute woman has the ability to absorb pain and heal others, putting her and the crew in danger."
+            },
+            {
+              "episode_number": 12,
+              "title": "Elaan of Troyius",
+              "air_date": "1968-12-13",
+              "description": "The Enterprise is tasked with delivering a temperamental alien princess to her arranged marriage, leading to tension and conflict."
+            },
+            {
+              "episode_number": 13,
+              "title": "Whom Gods Destroy",
+              "air_date": "1969-01-03",
+              "description": "Kirk and the crew must deal with a powerful, insane being who has escaped from a mental institution."
+            },
+            {
+              "episode_number": 14,
+              "title": "Let That Be Your Last Battlefield",
+              "air_date": "1969-01-10",
+              "description": "The Enterprise becomes involved in a conflict between two aliens who are half black and half white, reflecting the racial tensions of their home planet."
+            },
+            {
+              "episode_number": 15,
+              "title": "The Mark of Gideon",
+              "air_date": "1969-01-17",
+              "description": "Kirk is beamed down to a planet that seems deserted but is actually populated by an overpopulated civilization."
+            },
+            {
+              "episode_number": 16,
+              "title": "That Which Survives",
+              "air_date": "1969-01-24",
+              "description": "The crew encounters a planet where a computer-generated being threatens their lives as part of a deadly game."
+            },
+            {
+              "episode_number": 17,
+              "title": "The Lights of Zetar",
+              "air_date": "1969-01-31",
+              "description": "The Enterprise must deal with an energy-based lifeform that threatens the ship and one of the crew members."
+            },
+            {
+              "episode_number": 18,
+              "title": "Requiem for Methuselah",
+              "air_date": "1969-02-14",
+              "description": "The crew encounters a man who claims to be the ancient Biblical figure Methuselah and has been alive for centuries."
+            },
+            {
+              "episode_number": 19,
+              "title": "The Way to Eden",
+              "air_date": "1969-02-21",
+              "description": "The Enterprise crew encounters a group of space hippies searching for a mythical planet of paradise."
+            },
+            {
+              "episode_number": 20,
+              "title": "The Cloud Minders",
+              "air_date": "1969-02-28",
+              "description": "The Enterprise visits a planet with a class division, where workers mine for a valuable resource while elite citizens live in luxury."
+            },
+            {
+              "episode_number": 21,
+              "title": "The Savage Curtain",
+              "air_date": "1969-03-07",
+              "description": "Kirk and the crew are forced to participate in a battle against historical figures from Earth's past in a simulated arena."
+            },
+            {
+              "episode_number": 22,
+              "title": "All Our Yesterdays",
+              "air_date": "1969-03-14",
+              "description": "The crew discovers a planet where time has fractured, leading them to different historical periods and causing danger."
+            },
+            {
+              "episode_number": 23,
+              "title": "Turnabout Intruder",
+              "air_date": "1969-06-03",
+              "description": "Kirk’s body is taken over by a woman seeking revenge, causing chaos aboard the Enterprise."
+            }
+          ]
+        }
+      ],
+      "films": [
+        {
+          "title": "Star Trek: The Motion Picture",
+          "release_date": "1979-12-07",
+          "description": "The crew of the Enterprise must save Earth from an alien spacecraft of enormous power."
+        },
+        {
+          "title": "Star Trek II: The Wrath of Khan",
+          "release_date": "1982-06-04",
+          "description": "Admiral Kirk faces his old foe, Khan Noonien Singh, who seeks revenge against him and the Federation."
+        },
+        {
+          "title": "Star Trek III: The Search for Spock",
+          "release_date": "1984-06-01",
+          "description": "Kirk and his crew must recover the stolen Enterprise and search for Spock, who has been resurrected on the planet Genesis."
+        },
+        {
+          "title": "Star Trek IV: The Voyage Home",
+          "release_date": "1986-11-26",
+          "description": "The crew travels back in time to 20th-century Earth to save the planet from an alien probe."
+        },
+        {
+          "title": "Star Trek V: The Final Frontier",
+          "release_date": "1989-06-09",
+          "description": "Kirk and the crew confront a rogue Vulcan who has taken control of the Enterprise in search of the mythical planet Sha Ka Ree."
+        },
+        {
+          "title": "Star Trek VI: The Undiscovered Country",
+          "release_date": "1991-12-06",
+          "description": "Kirk and his crew are sent to negotiate peace with the Klingons, but find themselves embroiled in a conspiracy."
+        }
+      ]
+    }
+  }
+  
+  

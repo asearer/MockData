@@ -1,0 +1,1060 @@
+{
+    "series": [
+      {
+        "title": "Star Trek: The Next Generation",
+        "seasons": [
+          {
+            "season_number": 1,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Encounter at Farpoint: Part I",
+                "air_date": "1987-09-28",
+                "description": "The crew of the USS Enterprise-D encounters an alien being of immense power and must uncover a mystery involving an unknown space station."
+              },
+              {
+                "episode_number": 2,
+                "title": "Encounter at Farpoint: Part II",
+                "air_date": "1987-10-05",
+                "description": "The crew continues their investigation into the alien being and the mysterious space station, leading to a resolution of the conflict."
+              },
+              {
+                "episode_number": 3,
+                "title": "The Naked Now",
+                "air_date": "1987-10-12",
+                "description": "The crew is infected by a virus that removes their inhibitions, leading to chaotic behavior and dangerous situations."
+              },
+              {
+                "episode_number": 4,
+                "title": "Code of Honor",
+                "air_date": "1987-10-19",
+                "description": "The Enterprise crew visits a planet where an alien culture challenges them with primitive customs and practices."
+              },
+              {
+                "episode_number": 5,
+                "title": "The Last Outpost",
+                "air_date": "1987-10-26",
+                "description": "The Enterprise encounters a powerful alien race known as the Ferengi, leading to a standoff and a test of diplomacy."
+              },
+              {
+                "episode_number": 6,
+                "title": "Where No One Has Gone Before",
+                "air_date": "1987-11-02",
+                "description": "A visit from an experimental traveler causes the Enterprise to travel to the far reaches of the galaxy, where the crew faces strange phenomena."
+              },
+              {
+                "episode_number": 7,
+                "title": "Lonely Among Us",
+                "air_date": "1987-11-09",
+                "description": "The Enterprise deals with a mysterious alien presence that is causing unrest and disruptions among the crew and their mission."
+              },
+              {
+                "episode_number": 8,
+                "title": "Justice",
+                "air_date": "1987-11-16",
+                "description": "The crew visits a planet with a seemingly perfect society, only to discover underlying problems that challenge their moral and ethical principles."
+              },
+              {
+                "episode_number": 9,
+                "title": "The Battle",
+                "air_date": "1987-11-23",
+                "description": "Picard faces a personal crisis when an old enemy resurfaces and attacks the Enterprise with a stolen starship."
+              },
+              {
+                "episode_number": 10,
+                "title": "Hide and Q",
+                "air_date": "1987-11-30",
+                "description": "Q returns and offers Riker the opportunity to explore his desires for god-like powers, leading to a moral and existential conflict."
+              },
+              {
+                "episode_number": 11,
+                "title": "Haven",
+                "air_date": "1987-12-07",
+                "description": "Counselor Troi's arranged marriage becomes a reality when her betrothed arrives on the Enterprise, leading to personal and cultural clashes."
+              },
+              {
+                "episode_number": 12,
+                "title": "The Big Goodbye",
+                "air_date": "1988-01-04",
+                "description": "The crew experiences a malfunction in the holodeck that traps them in a 1940s detective simulation, leading to a struggle to escape."
+              },
+              {
+                "episode_number": 13,
+                "title": "Datalore",
+                "air_date": "1988-01-11",
+                "description": "Data's long-lost android brother, Lore, is discovered, bringing up issues of identity and loyalty."
+              },
+              {
+                "episode_number": 14,
+                "title": "Angel One",
+                "air_date": "1988-01-18",
+                "description": "The Enterprise visits a matriarchal planet where the crew must navigate complex social customs to complete their mission."
+              },
+              {
+                "episode_number": 15,
+                "title": "11001001",
+                "air_date": "1988-01-25",
+                "description": "The crew faces a crisis when a pair of advanced aliens hijack the Enterprise's systems and attempt to steal it for their own purposes."
+              },
+              {
+                "episode_number": 16,
+                "title": "Too Short a Season",
+                "air_date": "1988-02-01",
+                "description": "An aging admiral seeks to negotiate peace on a troubled planet, but his deteriorating health complicates the mission."
+              },
+              {
+                "episode_number": 17,
+                "title": "When the Bough Breaks",
+                "air_date": "1988-02-08",
+                "description": "The Enterprise crew must negotiate with an alien race that has kidnapped children from a nearby planet for their own survival."
+              },
+              {
+                "episode_number": 18,
+                "title": "Home Soil",
+                "air_date": "1988-02-15",
+                "description": "The crew encounters a sentient life form on a terraforming colony and must address the ethical implications of their presence."
+              },
+              {
+                "episode_number": 19,
+                "title": "Coming of Age",
+                "air_date": "1988-02-22",
+                "description": "Wesley Crusher faces the challenge of passing his Starfleet Academy entrance exam while dealing with a mysterious threat to the Enterprise."
+              },
+              {
+                "episode_number": 20,
+                "title": "Heart of Glory",
+                "air_date": "1988-03-14",
+                "description": "The Enterprise encounters renegade Klingons, leading to a conflict that tests the crew's understanding of Klingon culture and honor."
+              },
+              {
+                "episode_number": 21,
+                "title": "The Arsenal of Freedom",
+                "air_date": "1988-04-18",
+                "description": "The crew explores a planet known for its advanced weaponry and faces a dangerous situation when they are attacked by automated defense systems."
+              },
+              {
+                "episode_number": 22,
+                "title": "Symbiosis",
+                "air_date": "1988-04-25",
+                "description": "The Enterprise intervenes in a conflict between two planets where one is dependent on the other for a crucial resource."
+              },
+              {
+                "episode_number": 23,
+                "title": "Skin of Evil",
+                "air_date": "1988-05-02",
+                "description": "The crew confronts an entity of pure evil that threatens their mission and their safety."
+              },
+              {
+                "episode_number": 24,
+                "title": "We'll Always Have Paris",
+                "air_date": "1988-05-09",
+                "description": "Picard encounters a former lover and faces the repercussions of their past relationship while dealing with a time distortion."
+              },
+              {
+                "episode_number": 25,
+                "title": "Conspiracy",
+                "air_date": "1988-05-16",
+                "description": "The Enterprise crew uncovers a conspiracy involving high-ranking Starfleet officers and a dangerous alien threat."
+              },
+              {
+                "episode_number": 26,
+                "title": "The Neutral Zone",
+                "air_date": "1988-05-23",
+                "description": "The Enterprise encounters the Romulans for the first time in decades, leading to a tense and potentially explosive situation."
+              }
+            ]
+          },
+          {
+            "season_number": 2,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "The Child",
+                "air_date": "1988-11-21",
+                "description": "The crew deals with the sudden arrival of a mysterious child who seems to be a powerful entity."
+              },
+              {
+                "episode_number": 2,
+                "title": "Where Silence Has Lease",
+                "air_date": "1988-11-28",
+                "description": "The Enterprise becomes trapped in a mysterious void and must find a way to escape while dealing with a strange alien presence."
+              },
+              {
+                "episode_number": 3,
+                "title": "The Survivors",
+                "air_date": "1988-12-05",
+                "description": "The crew discovers a planet where all life has been wiped out except for a single, seemingly innocent couple."
+              },
+              {
+                "episode_number": 4,
+                "title": "Remember Me",
+                "air_date": "1988-12-12",
+                "description": "Dr. Crusher experiences a reality where people are disappearing and must find a way to restore the lost crew members."
+              },
+              {
+                "episode_number": 5,
+                "title": "The Outrageous Okona",
+                "air_date": "1988-12-19",
+                "description": "The Enterprise encounters a charming but reckless space rogue who gets involved in a diplomatic mission."
+              },
+              {
+                "episode_number": 6,
+                "title": "The Schizoid Man",
+                "air_date": "1989-01-02",
+                "description": "A scientist transfers his consciousness into Data's body, leading to a struggle for control and identity."
+              },
+              {
+                "episode_number": 7,
+                "title": "Unnatural Selection",
+                "air_date": "1989-01-09",
+                "description": "The crew investigates a mysterious disease affecting an isolated colony and its implications for the Enterprise crew."
+              },
+              {
+                "episode_number": 8,
+                "title": "A Matter of Honor",
+                "air_date": "1989-01-16",
+                "description": "Riker exchanges places with a Klingon officer and experiences life aboard a Klingon ship."
+              },
+              {
+                "episode_number": 9,
+                "title": "The Measure of a Man",
+                "air_date": "1989-01-23",
+                "description": "Data's rights and personhood are put on trial when a scientist claims ownership of him for experimentation."
+              },
+              {
+                "episode_number": 10,
+                "title": "The Dauphin",
+                "air_date": "1989-01-30",
+                "description": "Wesley falls in love with a young woman who is destined to become a leader and must come to terms with their relationship."
+              },
+              {
+                "episode_number": 11,
+                "title": "Contagion",
+                "air_date": "1989-02-06",
+                "description": "The Enterprise becomes infected with a dangerous virus and must find a cure before it spreads."
+              },
+              {
+                "episode_number": 12,
+                "title": "The Royale",
+                "air_date": "1989-02-13",
+                "description": "The crew investigates a mysterious space station that is modeled after a Las Vegas casino and hotel."
+              },
+              {
+                "episode_number": 13,
+                "title": "Time Squared",
+                "air_date": "1989-02-20",
+                "description": "The Enterprise encounters a time anomaly that leads to the appearance of a future version of Picard."
+              },
+              {
+                "episode_number": 14,
+                "title": "The Icarus Factor",
+                "air_date": "1989-03-13",
+                "description": "Riker's estranged father arrives aboard the Enterprise, leading to unresolved family issues."
+              },
+              {
+                "episode_number": 15,
+                "title": "Pen Pals",
+                "air_date": "1989-03-20",
+                "description": "Data develops a friendship with a young girl on a distant planet, which becomes a moral dilemma when her planet faces destruction."
+              },
+              {
+                "episode_number": 16,
+                "title": "Q Who",
+                "air_date": "1989-03-27",
+                "description": "Q throws the Enterprise into the path of the Borg, a powerful and relentless alien species."
+              },
+              {
+                "episode_number": 17,
+                "title": "Samaritan Snare",
+                "air_date": "1989-04-03",
+                "description": "Picard and Wesley are captured by an alien race while the Enterprise deals with a mysterious energy field."
+              },
+              {
+                "episode_number": 18,
+                "title": "Up the Long Ladder",
+                "air_date": "1989-04-17",
+                "description": "The Enterprise visits a planet with a primitive society and faces challenges related to their technology and customs."
+              },
+              {
+                "episode_number": 19,
+                "title": "Manhunt",
+                "air_date": "1989-04-24",
+                "description": "Counselor Troi's mother visits the Enterprise and causes complications due to her romantic interests."
+              },
+              {
+                "episode_number": 20,
+                "title": "The Emissary",
+                "air_date": "1989-05-01",
+                "description": "The Enterprise hosts a Klingon envoy whose arrival causes tension and potential conflict."
+              },
+              {
+                "episode_number": 21,
+                "title": "Peak Performance",
+                "air_date": "1989-05-08",
+                "description": "The Enterprise engages in a war game simulation that tests the crew's skills and strategy."
+              },
+              {
+                "episode_number": 22,
+                "title": "Shades of Gray",
+                "air_date": "1989-05-15",
+                "description": "Riker is infected with a mysterious illness that causes him to experience hallucinations related to past events."
+              }
+            ]
+          },
+          {
+            "season_number": 3,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Evolution",
+                "air_date": "1989-09-24",
+                "description": "The Enterprise deals with the effects of an experimental nanite swarm that disrupts the ship's systems."
+              },
+              {
+                "episode_number": 2,
+                "title": "The Ensigns of Command",
+                "air_date": "1989-10-01",
+                "description": "Data must convince a colony of stubborn settlers to evacuate before an alien threat arrives."
+              },
+              {
+                "episode_number": 3,
+                "title": "The Survivors",
+                "air_date": "1989-10-08",
+                "description": "The crew discovers a planet where all life has been wiped out except for a single, seemingly innocent couple."
+              },
+              {
+                "episode_number": 4,
+                "title": "The Bonding",
+                "air_date": "1989-10-15",
+                "description": "The crew must help a young survivor of a planetary disaster deal with the loss of her family."
+              },
+              {
+                "episode_number": 5,
+                "title": "Booby Trap",
+                "air_date": "1989-10-22",
+                "description": "The Enterprise becomes trapped in a time distortion field and must find a way to escape."
+              },
+              {
+                "episode_number": 6,
+                "title": "The Enemy",
+                "air_date": "1989-10-29",
+                "description": "The Enterprise must deal with a shipwrecked Romulan crew on a hostile planet."
+              },
+              {
+                "episode_number": 7,
+                "title": "The Price",
+                "air_date": "1989-11-05",
+                "description": "The crew must negotiate for control of a valuable space station while facing political and moral dilemmas."
+              },
+              {
+                "episode_number": 8,
+                "title": "The Vengeance Factor",
+                "air_date": "1989-11-12",
+                "description": "The Enterprise investigates the assassination of an alien diplomat and uncovers a vendetta-driven conspiracy."
+              },
+              {
+                "episode_number": 9,
+                "title": "The Defector",
+                "air_date": "1989-11-19",
+                "description": "The Enterprise assists a Romulan defector who brings critical information about an impending war."
+              },
+              {
+                "episode_number": 10,
+                "title": "The Hunted",
+                "air_date": "1989-11-26",
+                "description": "The crew deals with a fugitive from a planet where a failed experiment has left the population with severe consequences."
+              },
+              {
+                "episode_number": 11,
+                "title": "The High Ground",
+                "air_date": "1989-12-03",
+                "description": "The Enterprise becomes involved in a conflict between a group of terrorists and a peaceful world."
+              },
+              {
+                "episode_number": 12,
+                "title": "Deja Q",
+                "air_date": "1989-12-10",
+                "description": "Q loses his powers and seeks asylum aboard the Enterprise while facing the consequences of his actions."
+              },
+              {
+                "episode_number": 13,
+                "title": "A Matter of Perspective",
+                "air_date": "1989-12-17",
+                "description": "The crew investigates a crime that involves differing accounts of an event, leading to a complex mystery."
+              },
+              {
+                "episode_number": 14,
+                "title": "Yesterday's Enterprise",
+                "air_date": "1990-02-19",
+                "description": "The Enterprise encounters a time distortion that brings a past version of the ship into the present, altering history."
+              },
+              {
+                "episode_number": 15,
+                "title": "The Offspring",
+                "air_date": "1990-02-26",
+                "description": "Data creates an android child and faces legal and emotional challenges regarding its rights and future."
+              },
+              {
+                "episode_number": 16,
+                "title": "Sins of the Father",
+                "air_date": "1990-03-04",
+                "description": "Worf faces a personal crisis when his family honor is questioned and he must defend his father’s actions."
+              },
+              {
+                "episode_number": 17,
+                "title": "Allegiance",
+                "air_date": "1990-03-11",
+                "description": "Picard is abducted and must navigate a strange environment with other captives while the Enterprise investigates his disappearance."
+              },
+              {
+                "episode_number": 18,
+                "title": "Captain's Holiday",
+                "air_date": "1990-03-18",
+                "description": "Picard takes a vacation on a pleasure planet, only to become entangled in a dangerous adventure involving an ancient artifact."
+              },
+              {
+                "episode_number": 19,
+                "title": "The Telgar Incident",
+                "air_date": "1990-03-25",
+                "description": "The Enterprise is sent to investigate the aftermath of a failed diplomatic mission involving an ancient and advanced civilization."
+              },
+              {
+                "episode_number": 20,
+                "title": "The First Duty",
+                "air_date": "1990-04-01",
+                "description": "Wesley Crusher faces disciplinary action when a training accident leads to the death of a fellow cadet."
+              },
+              {
+                "episode_number": 21,
+                "title": "Cost of Living",
+                "air_date": "1990-04-08",
+                "description": "Troi and her mother deal with personal issues while the Enterprise faces a crisis involving an alien race."
+              },
+              {
+                "episode_number": 22,
+                "title": "The Perfect Mate",
+                "air_date": "1990-04-15",
+                "description": "The Enterprise hosts an emissary from a planet with unique customs regarding marriage and diplomacy."
+              },
+              {
+                "episode_number": 23,
+                "title": "The Inner Light",
+                "air_date": "1990-04-22",
+                "description": "Picard experiences an alternate life through a mysterious probe that takes him on a journey of personal growth and discovery."
+              },
+              {
+                "episode_number": 24,
+                "title": "Time's Arrow: Part I",
+                "air_date": "1990-05-06",
+                "description": "The Enterprise discovers a mysterious artifact that leads them to a journey back in time to the 19th century."
+              },
+              {
+                "episode_number": 25,
+                "title": "Time's Arrow: Part II",
+                "air_date": "1990-05-13",
+                "description": "The crew continues their time-traveling adventure, facing challenges to prevent historical alterations and ensure their return to the present."
+              }
+            ]
+          },
+          {
+            "season_number": 4,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "The Best of Both Worlds: Part I",
+                "air_date": "1990-09-24",
+                "description": "The Enterprise faces a critical threat from the Borg, leading to a dramatic cliffhanger."
+              },
+              {
+                "episode_number": 2,
+                "title": "The Best of Both Worlds: Part II",
+                "air_date": "1990-10-01",
+                "description": "The crew continues their battle against the Borg, with Picard in a crucial role as the conflict reaches its climax."
+              },
+              {
+                "episode_number": 3,
+                "title": "Family",
+                "air_date": "1990-10-08",
+                "description": "Picard returns home to confront his past and rebuild his relationships with his family following the events with the Borg."
+              },
+              {
+                "episode_number": 4,
+                "title": "Brothers",
+                "air_date": "1990-10-15",
+                "description": "Data reunites with his creator and learns more about his origins while facing an internal conflict."
+              },
+              {
+                "episode_number": 5,
+                "title": "Suddenly Human",
+                "air_date": "1990-10-22",
+                "description": "The Enterprise deals with a human who was raised by an alien species and faces the challenge of reintegration."
+              },
+              {
+                "episode_number": 6,
+                "title": "Remember Me",
+                "air_date": "1990-10-29",
+                "description": "Dr. Crusher experiences a reality where people are disappearing and must find a way to restore the lost crew members."
+              },
+              {
+                "episode_number": 7,
+                "title": "Legacy",
+                "air_date": "1990-11-05",
+                "description": "Worf discovers his long-lost sister on a planet in turmoil and must confront his past and family legacy."
+              },
+              {
+                "episode_number": 8,
+                "title": "Reunion",
+                "air_date": "1990-11-12",
+                "description": "Worf must navigate political intrigue and personal loyalties when his former love becomes involved in a political conflict."
+              },
+              {
+                "episode_number": 9,
+                "title": "Future Imperfect",
+                "air_date": "1990-11-19",
+                "description": "Riker wakes up in a future where he is the captain of the Enterprise and must deal with the implications of his new reality."
+              },
+              {
+                "episode_number": 10,
+                "title": "Final Mission",
+                "air_date": "1990-11-26",
+                "description": "Picard and Wesley go on a dangerous mission that tests their abilities and their relationship."
+              },
+              {
+                "episode_number": 11,
+                "title": "The Loss",
+                "air_date": "1990-12-03",
+                "description": "Troi faces a personal challenge when she loses her empathic abilities and must come to terms with the change."
+              },
+              {
+                "episode_number": 12,
+                "title": "Data's Day",
+                "air_date": "1990-12-10",
+                "description": "Data narrates a day in his life as he deals with personal and professional challenges aboard the Enterprise."
+              },
+              {
+                "episode_number": 13,
+                "title": "The Wounded",
+                "air_date": "1990-12-17",
+                "description": "The Enterprise deals with the fallout of a rogue Starfleet captain who attacks Cardassian ships, leading to political tension."
+              },
+              {
+                "episode_number": 14,
+                "title": "Devil's Due",
+                "air_date": "1991-01-07",
+                "description": "The Enterprise investigates a planet where an ancient alien being is believed to have returned to claim its due."
+              },
+              {
+                "episode_number": 15,
+                "title": "Clues",
+                "air_date": "1991-01-14",
+                "description": "The Enterprise crew faces a mystery when Data is found to be withholding information about an incident."
+              },
+              {
+                "episode_number": 16,
+                "title": "First Contact",
+                "air_date": "1991-01-21",
+                "description": "The Enterprise encounters a species on the brink of space travel and must help them make first contact with the Federation."
+              },
+              {
+                "episode_number": 17,
+                "title": "Galaxy's Child",
+                "air_date": "1991-01-28",
+                "description": "The Enterprise faces a crisis when an alien creature attacks the ship, leading to an unexpected personal connection."
+              },
+              {
+                "episode_number": 18,
+                "title": "Night Terrors",
+                "air_date": "1991-02-04",
+                "description": "The crew experiences vivid nightmares and hallucinations due to a mysterious psychological phenomenon."
+              },
+              {
+                "episode_number": 19,
+                "title": "Identity Crisis",
+                "air_date": "1991-02-11",
+                "description": "The Enterprise investigates a mysterious illness affecting former away team members, leading to revelations about an alien species."
+              },
+              {
+                "episode_number": 20,
+                "title": "The Nth Degree",
+                "air_date": "1991-02-18",
+                "description": "Barclay gains extraordinary intellectual abilities and uses them to help the Enterprise face a new threat."
+              },
+              {
+                "episode_number": 21,
+                "title": "Qpid",
+                "air_date": "1991-02-25",
+                "description": "Q transports the Enterprise crew into a Robin Hood simulation, leading to humorous and challenging situations."
+              },
+              {
+                "episode_number": 22,
+                "title": "The Drumhead",
+                "air_date": "1991-03-25",
+                "description": "An investigation into a possible sabotage leads to a dangerous witch-hunt aboard the Enterprise."
+              },
+              {
+                "episode_number": 23,
+                "title": "Half a Life",
+                "air_date": "1991-04-01",
+                "description": "The Enterprise deals with a planet where a controversial custom requires the elderly to end their lives, leading to ethical dilemmas."
+              },
+              {
+                "episode_number": 24,
+                "title": "The Host",
+                "air_date": "1991-04-15",
+                "description": "The Enterprise faces diplomatic complications when a species with the ability to change its appearance seeks a treaty."
+              },
+              {
+                "episode_number": 25,
+                "title": "In Theory",
+                "air_date": "1991-04-22",
+                "description": "Data explores a romantic relationship with a crew member, leading to unexpected consequences."
+              },
+              {
+                "episode_number": 26,
+                "title": "Redemption: Part I",
+                "air_date": "1991-05-06",
+                "description": "Worf faces a personal and political crisis when his honor is challenged and he must navigate Klingon politics."
+              }
+            ]
+          },
+          {
+            "season_number": 5,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Redemption: Part II",
+                "air_date": "1991-09-23",
+                "description": "The resolution of Worf's personal and political crisis continues as the Enterprise faces new threats."
+              },
+              {
+                "episode_number": 2,
+                "title": "Darmok",
+                "air_date": "1991-09-30",
+                "description": "Picard must find a way to communicate with an alien species that speaks in metaphor and allegory."
+              },
+              {
+                "episode_number": 3,
+                "title": "Ensign Ro",
+                "air_date": "1991-10-07",
+                "description": "The Enterprise welcomes a new crew member, Ensign Ro, whose troubled past brings both challenges and growth."
+              },
+              {
+                "episode_number": 4,
+                "title": "Silicon Avatar",
+                "air_date": "1991-10-14",
+                "description": "The crew confronts a being made of pure energy that is responsible for the destruction of a colony."
+              },
+              {
+                "episode_number": 5,
+                "title": "Disaster",
+                "air_date": "1991-10-21",
+                "description": "The Enterprise faces multiple crises when a massive disaster strikes the ship, testing the crew's ability to manage under pressure."
+              },
+              {
+                "episode_number": 6,
+                "title": "The Game",
+                "air_date": "1991-10-28",
+                "description": "A seemingly harmless game becomes a serious threat to the Enterprise crew's control over their own minds."
+              },
+              {
+                "episode_number": 7,
+                "title": "Unification: Part I",
+                "air_date": "1991-11-04",
+                "description": "The Enterprise investigates a mysterious disappearance of Ambassador Spock and uncovers a plot involving the Romulans."
+              },
+              {
+                "episode_number": 8,
+                "title": "Unification: Part II",
+                "air_date": "1991-11-11",
+                "description": "The search for Ambassador Spock continues, leading to a confrontation with the Romulans and important revelations."
+              },
+              {
+                "episode_number": 9,
+                "title": "A Matter of Time",
+                "air_date": "1991-11-18",
+                "description": "A time-traveling historian arrives aboard the Enterprise, but his true intentions are questioned when the ship faces danger."
+              },
+              {
+                "episode_number": 10,
+                "title": "New Ground",
+                "air_date": "1991-11-25",
+                "description": "Worf struggles to balance his duties on the Enterprise with his responsibilities as a father when his son comes aboard."
+              },
+              {
+                "episode_number": 11,
+                "title": "Hero Worship",
+                "air_date": "1991-12-02",
+                "description": "The Enterprise deals with a young boy who idolizes Data and struggles with his own trauma after a shipwreck."
+              },
+              {
+                "episode_number": 12,
+                "title": "Violations",
+                "air_date": "1991-12-09",
+                "description": "The crew is subjected to invasive mental probes that reveal troubling secrets and lead to an investigation into the perpetrator."
+              },
+              {
+                "episode_number": 13,
+                "title": "The Masterpiece Society",
+                "air_date": "1991-12-16",
+                "description": "The Enterprise visits a planet with a carefully controlled society, leading to ethical and philosophical questions."
+              },
+              {
+                "episode_number": 14,
+                "title": "Conundrum",
+                "air_date": "1992-01-06",
+                "description": "The Enterprise crew loses their memories and must figure out their identity and mission while dealing with an unknown threat."
+              },
+              {
+                "episode_number": 15,
+                "title": "Power Play",
+                "air_date": "1992-01-13",
+                "description": "The Enterprise crew is possessed by alien entities, leading to a struggle for control and an attempt to prevent a disaster."
+              },
+              {
+                "episode_number": 16,
+                "title": "Ethics",
+                "air_date": "1992-01-27",
+                "description": "The crew faces a moral dilemma when Worf is paralyzed and must decide between traditional Klingon practices and modern medicine."
+              },
+              {
+                "episode_number": 17,
+                "title": "The Outcast",
+                "air_date": "1992-02-03",
+                "description": "The Enterprise encounters a genderless species that challenges its beliefs about gender and sexuality."
+              },
+              {
+                "episode_number": 18,
+                "title": "Cause and Effect",
+                "air_date": "1992-02-10",
+                "description": "The Enterprise experiences a time loop that causes the ship to repeatedly explode, requiring the crew to break free from the cycle."
+              },
+              {
+                "episode_number": 19,
+                "title": "Rascals",
+                "air_date": "1992-02-17",
+                "description": "Picard, Ro, and others are transformed into children and must deal with the challenges of their new bodies while solving a crisis."
+              },
+              {
+                "episode_number": 20,
+                "title": "The Quality of Life",
+                "air_date": "1992-02-24",
+                "description": "The crew debates the rights of a new form of artificial life, leading to philosophical and ethical questions."
+              },
+              {
+                "episode_number": 21,
+                "title": "Suspicion",
+                "air_date": "1992-03-02",
+                "description": "Dr. Crusher investigates a colleague who may be involved in espionage and treachery against the Federation."
+              },
+              {
+                "episode_number": 22,
+                "title": "The First Duty",
+                "air_date": "1992-03-09",
+                "description": "Wesley Crusher faces the consequences of a serious breach of Starfleet protocol during a high-stakes mission."
+              },
+              {
+                "episode_number": 23,
+                "title": "The Drumhead",
+                "air_date": "1992-03-16",
+                "description": "An investigation into a possible sabotage leads to a dangerous witch-hunt aboard the Enterprise."
+              },
+              {
+                "episode_number": 24,
+                "title": "Journey's End",
+                "air_date": "1992-03-23",
+                "description": "Wesley Crusher makes a pivotal decision about his future, and the crew deals with a planetary crisis."
+              },
+              {
+                "episode_number": 25,
+                "title": "The Next Phase",
+                "air_date": "1992-04-06",
+                "description": "The Enterprise crew experiences a mysterious phase shift that makes them invisible and intangible, complicating their efforts to resolve a crisis."
+              },
+              {
+                "episode_number": 26,
+                "title": "Transfigurations",
+                "air_date": "1992-04-13",
+                "description": "The Enterprise assists a mysterious alien whose transformation leads to profound changes and revelations."
+              }
+            ]
+          },
+          {
+            "season_number": 6,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Descent: Part I",
+                "air_date": "1992-09-21",
+                "description": "The Enterprise faces a new threat from the Borg as the crew confronts a new enemy faction led by an old foe."
+              },
+              {
+                "episode_number": 2,
+                "title": "Descent: Part II",
+                "air_date": "1992-09-28",
+                "description": "The confrontation with the Borg continues as Picard and the crew face new challenges and threats from the enemy faction."
+              },
+              {
+                "episode_number": 3,
+                "title": "The Quality of Life",
+                "air_date": "1992-10-05",
+                "description": "The Enterprise debates the ethical implications of artificial life when a new form of sentient beings is discovered."
+              },
+              {
+                "episode_number": 4,
+                "title": "Chain of Command: Part I",
+                "air_date": "1992-10-12",
+                "description": "Picard is reassigned to a dangerous mission, and Captain Jellico takes over command of the Enterprise."
+              },
+              {
+                "episode_number": 5,
+                "title": "Chain of Command: Part II",
+                "air_date": "1992-10-19",
+                "description": "The dangerous mission continues, with Picard facing intense challenges and Jellico dealing with the crew's resistance."
+              },
+              {
+                "episode_number": 6,
+                "title": "Face of the Enemy",
+                "air_date": "1992-10-26",
+                "description": "Troi is forced to impersonate a Romulan officer as the Enterprise uncovers a plot involving the Romulans."
+              },
+              {
+                "episode_number": 7,
+                "title": "Tapestry",
+                "air_date": "1992-11-02",
+                "description": "Picard experiences an alternate reality where he can change key moments in his past, leading to unexpected consequences."
+              },
+              {
+                "episode_number": 8,
+                "title": "Birthright: Part I",
+                "air_date": "1992-11-09",
+                "description": "Worf discovers a group of Klingons living as Romulans and must reconcile his past and present."
+              },
+              {
+                "episode_number": 9,
+                "title": "Birthright: Part II",
+                "air_date": "1992-11-16",
+                "description": "The search for the Klingon survivors continues, leading to a dramatic conclusion and new revelations for Worf."
+              },
+              {
+                "episode_number": 10,
+                "title": "Starship Mine",
+                "air_date": "1992-11-23",
+                "description": "Picard must protect the Enterprise when terrorists seize control of the ship during a routine inspection."
+              },
+              {
+                "episode_number": 11,
+                "title": "Lessons",
+                "air_date": "1992-11-30",
+                "description": "Picard develops a romantic relationship with a new officer while facing the challenges of command and duty."
+              },
+              {
+                "episode_number": 12,
+                "title": "The Chase",
+                "air_date": "1992-12-07",
+                "description": "The Enterprise pursues a mysterious artifact that leads to a galaxy-wide race and reveals ancient secrets."
+              },
+              {
+                "episode_number": 13,
+                "title": "Frame of Mind",
+                "air_date": "1992-12-14",
+                "description": "Riker struggles with reality and delusions as he becomes entangled in a complex psychological and physical conflict."
+              },
+              {
+                "episode_number": 14,
+                "title": "Suspicions",
+                "air_date": "1992-12-21",
+                "description": "Dr. Crusher investigates a colleague who may be involved in espionage and treachery against the Federation."
+              },
+              {
+                "episode_number": 15,
+                "title": "Rightful Heir",
+                "air_date": "1993-01-04",
+                "description": "Worf faces a crisis of faith and identity when a Klingon religious figure is resurrected, leading to a test of his beliefs."
+              },
+              {
+                "episode_number": 16,
+                "title": "Second Chances",
+                "air_date": "1993-01-11",
+                "description": "Riker encounters a duplicate of himself from a transporter accident, leading to personal and professional conflicts."
+              },
+              {
+                "episode_number": 17,
+                "title": "Timescape",
+                "air_date": "1993-01-18",
+                "description": "The Enterprise experiences a time anomaly that disrupts the flow of time and causes strange phenomena aboard the ship."
+              },
+              {
+                "episode_number": 18,
+                "title": "Descent: Part II",
+                "air_date": "1993-01-25",
+                "description": "The confrontation with the Borg continues, and Picard and the crew face new challenges from the enemy faction."
+              },
+              {
+                "episode_number": 19,
+                "title": "The Perfect Mate",
+                "air_date": "1993-02-01",
+                "description": "The Enterprise hosts an emissary from a planet with unique customs regarding marriage and diplomacy."
+              },
+              {
+                "episode_number": 20,
+                "title": "The Offspring",
+                "air_date": "1993-02-08",
+                "description": "Data creates a new form of life, leading to ethical and personal dilemmas as he becomes a parent."
+              },
+              {
+                "episode_number": 21,
+                "title": "Hollow Pursuits",
+                "air_date": "1993-02-15",
+                "description": "The Enterprise deals with a crew member whose use of holodeck fantasies begins to interfere with his duties and reality."
+              },
+              {
+                "episode_number": 22,
+                "title": "Preemptive Strike",
+                "air_date": "1993-02-22",
+                "description": "Ensign Ro becomes embroiled in a conflict with the Maquis, leading to a difficult choice between duty and loyalty."
+              },
+              {
+                "episode_number": 23,
+                "title": "The Pegasus",
+                "air_date": "1993-03-01",
+                "description": "Riker confronts the secrets of a lost Starfleet vessel with a controversial history, leading to a clash with his past."
+              },
+              {
+                "episode_number": 24,
+                "title": "Journey's End",
+                "air_date": "1993-03-08",
+                "description": "Wesley Crusher faces a life-changing decision as he prepares to leave Starfleet and pursue a new path."
+              },
+              {
+                "episode_number": 25,
+                "title": "The Next Phase",
+                "air_date": "1993-03-15",
+                "description": "The Enterprise crew deals with the complications of being invisible and intangible while trying to resolve a crisis."
+              },
+              {
+                "episode_number": 26,
+                "title": "Transfigurations",
+                "air_date": "1993-03-22",
+                "description": "The Enterprise assists a mysterious alien whose transformation leads to profound changes and revelations."
+              }
+            ]
+          },
+          {
+            "season_number": 7,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Descent: Part II",
+                "air_date": "1993-09-27",
+                "description": "The confrontation with the Borg continues, leading to new challenges and threats for the Enterprise crew."
+              },
+              {
+                "episode_number": 2,
+                "title": "Liaisons",
+                "air_date": "1993-10-04",
+                "description": "The Enterprise hosts diplomatic guests whose strange behavior leads to unexpected and humorous situations."
+              },
+              {
+                "episode_number": 3,
+                "title": "Interface",
+                "air_date": "1993-10-11",
+                "description": "Geordi La Forge uses a new interface technology to investigate a dangerous situation involving a missing crew member."
+              },
+              {
+                "episode_number": 4,
+                "title": "Gambit: Part I",
+                "air_date": "1993-10-18",
+                "description": "Picard goes undercover to investigate a mysterious artifact and encounters unexpected dangers."
+              },
+              {
+                "episode_number": 5,
+                "title": "Gambit: Part II",
+                "air_date": "1993-10-25",
+                "description": "The mission continues as Picard and his crew face new threats and attempt to uncover the secrets of the artifact."
+              },
+              {
+                "episode_number": 6,
+                "title": "Phantasms",
+                "air_date": "1993-11-01",
+                "description": "Riker experiences unsettling dreams and must confront the reality behind them to prevent a crisis."
+              },
+              {
+                "episode_number": 7,
+                "title": "Dark Page",
+                "air_date": "1993-11-08",
+                "description": "Troi uncovers hidden traumas from her past while dealing with a mysterious mental disturbance."
+              },
+              {
+                "episode_number": 8,
+                "title": "Attached",
+                "air_date": "1993-11-15",
+                "description": "Picard and Crusher are forced to work together under difficult circumstances when they are captured by an alien species."
+              },
+              {
+                "episode_number": 9,
+                "title": "Force of Nature",
+                "air_date": "1993-11-22",
+                "description": "The Enterprise deals with the consequences of a new type of pollution affecting space travel."
+              },
+              {
+                "episode_number": 10,
+                "title": "Inheritance",
+                "air_date": "1993-11-29",
+                "description": "Data discovers a hidden aspect of his own origins when he meets a woman claiming to be his mother."
+              },
+              {
+                "episode_number": 11,
+                "title": "Parallels",
+                "air_date": "1993-12-06",
+                "description": "Worf experiences a series of alternate realities, leading to a deeper understanding of himself and his place in the universe."
+              },
+              {
+                "episode_number": 12,
+                "title": "The Pegasus",
+                "air_date": "1993-12-13",
+                "description": "Riker confronts the legacy of a controversial Starfleet vessel, leading to personal and professional dilemmas."
+              },
+              {
+                "episode_number": 13,
+                "title": "Homeward",
+                "air_date": "1993-12-20",
+                "description": "The Enterprise deals with the implications of transporting a species to a new home and the ethical challenges involved."
+              },
+              {
+                "episode_number": 14,
+                "title": "Sub Rosa",
+                "air_date": "1993-12-27",
+                "description": "Dr. Crusher encounters a mysterious romance involving a ghostly presence on a planet with an old family secret."
+              },
+              {
+                "episode_number": 15,
+                "title": "Lower Decks",
+                "air_date": "1994-01-03",
+                "description": "The episode focuses on the lives of junior officers aboard the Enterprise, revealing their struggles and aspirations."
+              },
+              {
+                "episode_number": 16,
+                "title": "Preemptive Strike",
+                "air_date": "1994-01-10",
+                "description": "Ensign Ro faces a critical decision between her duty to Starfleet and her loyalty to the Maquis."
+              },
+              {
+                "episode_number": 17,
+                "title": "All Good Things... Part I",
+                "air_date": "1994-01-17",
+                "description": "The Enterprise faces a mysterious anomaly that affects time, leading to a complex and climactic conclusion for the series."
+              },
+              {
+                "episode_number": 18,
+                "title": "All Good Things... Part II",
+                "air_date": "1994-01-24",
+                "description": "The series concludes with a resolution to the time anomaly and a reflection on the journey of the Enterprise crew."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+  
