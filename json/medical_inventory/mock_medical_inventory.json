@@ -1,50 +1,116 @@
 {
-    "medical_inventory": [
-      {
-        "equipment_id": 4001,
-        "equipment_name": "MRI Scanner",
-        "quantity_in_stock": 5,
-        "supplier": "MedEquip Corp",
-        "last_ordered": "2023-06-15",
-        "order_quantity": 1,
-        "next_delivery_date": "2023-09-01"
-      },
-      {
-        "equipment_id": 4002,
-        "equipment_name": "X-Ray Machine",
-        "quantity_in_stock": 8,
-        "supplier": "Radiology Tech Supplies",
-        "last_ordered": "2023-07-10",
-        "order_quantity": 2,
-        "next_delivery_date": "2023-09-15"
-      },
-      {
-        "equipment_id": 4003,
-        "equipment_name": "Ultrasound Machine",
-        "quantity_in_stock": 4,
-        "supplier": "MedEquip Corp",
-        "last_ordered": "2023-08-05",
-        "order_quantity": 1,
-        "next_delivery_date": "2023-10-01"
-      },
-      {
-        "equipment_id": 4004,
-        "equipment_name": "Defibrillator",
-        "quantity_in_stock": 15,
-        "supplier": "CardioTech Supplies",
-        "last_ordered": "2023-05-20",
-        "order_quantity": 5,
-        "next_delivery_date": "2023-09-10"
-      },
-      {
-        "equipment_id": 4005,
-        "equipment_name": "Ventilator",
-        "quantity_in_stock": 20,
-        "supplier": "LifeSupport Equipment",
-        "last_ordered": "2023-04-15",
-        "order_quantity": 10,
-        "next_delivery_date": "2023-09-20"
-      }
-    ]
-  }
-  
+  "medical_inventory": [
+    {
+      "equipment_id": 4001,
+      "equipment_name": "MRI Scanner",
+      "category": "Imaging",
+      "quantity_in_stock": 5,
+      "reorder_level": 2,
+      "storage_location": "Radiology Dept - Room A1",
+      "supplier": "MedEquip Corp",
+      "last_ordered": "2023-06-15",
+      "order_quantity": 1,
+      "next_delivery_date": "2023-09-01",
+      "unit_cost": 1500000,
+      "usage_rate_per_week": 3,
+      "maintenance_schedule": "2023-09-15",
+      "volatility_index": 0.2
+    },
+    {
+      "equipment_id": 4002,
+      "equipment_name": "X-Ray Machine",
+      "category": "Imaging",
+      "quantity_in_stock": 8,
+      "reorder_level": 3,
+      "storage_location": "Radiology Dept - Room B2",
+      "supplier": "Radiology Tech Supplies",
+      "last_ordered": "2023-07-10",
+      "order_quantity": 2,
+      "next_delivery_date": "2023-09-15",
+      "unit_cost": 500000,
+      "usage_rate_per_week": 10,
+      "maintenance_schedule": "2023-09-30",
+      "volatility_index": 0.15
+    },
+    {
+      "equipment_id": 4003,
+      "equipment_name": "Ultrasound Machine",
+      "category": "Imaging",
+      "quantity_in_stock": 4,
+      "reorder_level": 2,
+      "storage_location": "OB/GYN Dept - Room C3",
+      "supplier": "MedEquip Corp",
+      "last_ordered": "2023-08-05",
+      "order_quantity": 1,
+      "next_delivery_date": "2023-10-01",
+      "unit_cost": 200000,
+      "usage_rate_per_week": 20,
+      "maintenance_schedule": "2023-10-10",
+      "volatility_index": 0.25
+    },
+    {
+      "equipment_id": 4004,
+      "equipment_name": "Defibrillator",
+      "category": "Emergency",
+      "quantity_in_stock": 15,
+      "reorder_level": 5,
+      "storage_location": "Emergency Dept - Cabinets",
+      "supplier": "CardioTech Supplies",
+      "last_ordered": "2023-05-20",
+      "order_quantity": 5,
+      "next_delivery_date": "2023-09-10",
+      "unit_cost": 15000,
+      "usage_rate_per_week": 5,
+      "maintenance_schedule": "2023-09-05",
+      "volatility_index": 0.1
+    },
+    {
+      "equipment_id": 4005,
+      "equipment_name": "Ventilator",
+      "category": "Critical Care",
+      "quantity_in_stock": 20,
+      "reorder_level": 10,
+      "storage_location": "ICU Storage - Bay 1",
+      "supplier": "LifeSupport Equipment",
+      "last_ordered": "2023-04-15",
+      "order_quantity": 10,
+      "next_delivery_date": "2023-09-20",
+      "unit_cost": 25000,
+      "usage_rate_per_week": 15,
+      "maintenance_schedule": "2023-09-25",
+      "volatility_index": 0.3
+    },
+    {
+      "equipment_id": 4006,
+      "equipment_name": "ECG Monitor",
+      "category": "Cardiology",
+      "quantity_in_stock": 12,
+      "reorder_level": 4,
+      "storage_location": "Cardiology Ward - Supply Room",
+      "supplier": "CardioMed Supplies",
+      "last_ordered": "2023-07-25",
+      "order_quantity": 4,
+      "next_delivery_date": "2023-09-18",
+      "unit_cost": 5000,
+      "usage_rate_per_week": 30,
+      "maintenance_schedule": "2023-09-22",
+      "volatility_index": 0.18
+    },
+    {
+      "equipment_id": 4007,
+      "equipment_name": "Infusion Pump",
+      "category": "General Ward",
+      "quantity_in_stock": 25,
+      "reorder_level": 10,
+      "storage_location": "Ward Supplies - Main Storage",
+      "supplier": "MedLife Equipment",
+      "last_ordered": "2023-06-30",
+      "order_quantity": 12,
+      "next_delivery_date": "2023-09-25",
+      "unit_cost": 2000,
+      "usage_rate_per_week": 40,
+      "maintenance_schedule": "2023-09-29",
+      "volatility_index": 0.22
+    }
+  ]
+}

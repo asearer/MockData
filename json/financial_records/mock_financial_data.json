@@ -1,313 +1,142 @@
 {
-    "companies": [
-      {
-        "company_id": 1,
-        "name": "Tech Innovators Inc.",
-        "industry": "Technology",
-        "financials": [
-          {
-            "year": 2020,
-            "revenue": 250000000,
-            "expenses": 180000000,
-            "profit": 70000000,
-            "assets": 500000000,
-            "liabilities": 300000000,
-            "employees": 5000,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 60000000,
-                "expenses": 40000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 70000000,
-                "expenses": 50000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 60000000,
-                "expenses": 40000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 60000000,
-                "expenses": 50000000,
-                "profit": 10000000
-              }
-            ]
-          },
-          {
-            "year": 2021,
-            "revenue": 300000000,
-            "expenses": 200000000,
-            "profit": 100000000,
-            "assets": 550000000,
-            "liabilities": 320000000,
-            "employees": 5500,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 70000000,
-                "expenses": 50000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 80000000,
-                "expenses": 60000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 75000000,
-                "expenses": 50000000,
-                "profit": 25000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 75000000,
-                "expenses": 50000000,
-                "profit": 25000000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "company_id": 2,
-        "name": "Retail Giants LLC",
-        "industry": "Retail",
-        "financials": [
-          {
-            "year": 2020,
-            "revenue": 500000000,
-            "expenses": 400000000,
-            "profit": 100000000,
-            "assets": 1000000000,
-            "liabilities": 600000000,
-            "employees": 20000,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 120000000,
-                "expenses": 100000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 130000000,
-                "expenses": 100000000,
-                "profit": 30000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 120000000,
-                "expenses": 110000000,
-                "profit": 10000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 130000000,
-                "expenses": 90000000,
-                "profit": 40000000
-              }
-            ]
-          },
-          {
-            "year": 2021,
-            "revenue": 550000000,
-            "expenses": 450000000,
-            "profit": 100000000,
-            "assets": 1050000000,
-            "liabilities": 650000000,
-            "employees": 21000,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 130000000,
-                "expenses": 100000000,
-                "profit": 30000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 140000000,
-                "expenses": 110000000,
-                "profit": 30000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 140000000,
-                "expenses": 120000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 140000000,
-                "expenses": 120000000,
-                "profit": 20000000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "company_id": 3,
-        "name": "Green Energy Co.",
-        "industry": "Energy",
-        "financials": [
-          {
-            "year": 2020,
-            "revenue": 400000000,
-            "expenses": 320000000,
-            "profit": 80000000,
-            "assets": 800000000,
-            "liabilities": 500000000,
-            "employees": 10000,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 100000000,
-                "expenses": 80000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 110000000,
-                "expenses": 90000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 90000000,
-                "expenses": 70000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 100000000,
-                "expenses": 80000000,
-                "profit": 20000000
-              }
-            ]
-          },
-          {
-            "year": 2021,
-            "revenue": 450000000,
-            "expenses": 350000000,
-            "profit": 100000000,
-            "assets": 850000000,
-            "liabilities": 550000000,
-            "employees": 10500,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 110000000,
-                "expenses": 90000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 120000000,
-                "expenses": 100000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 110000000,
-                "expenses": 85000000,
-                "profit": 25000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 110000000,
-                "expenses": 80000000,
-                "profit": 30000000
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "company_id": 4,
-        "name": "Healthcare Solutions Ltd.",
-        "industry": "Healthcare",
-        "financials": [
-          {
-            "year": 2020,
-            "revenue": 300000000,
-            "expenses": 250000000,
-            "profit": 50000000,
-            "assets": 600000000,
-            "liabilities": 350000000,
-            "employees": 8000,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 70000000,
-                "expenses": 60000000,
-                "profit": 10000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 80000000,
-                "expenses": 70000000,
-                "profit": 10000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 70000000,
-                "expenses": 60000000,
-                "profit": 10000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 80000000,
-                "expenses": 60000000,
-                "profit": 20000000
-              }
-            ]
-          },
-          {
-            "year": 2021,
-            "revenue": 350000000,
-            "expenses": 270000000,
-            "profit": 80000000,
-            "assets": 650000000,
-            "liabilities": 400000000,
-            "employees": 8500,
-            "quarterly_breakdown": [
-              {
-                "quarter": "Q1",
-                "revenue": 80000000,
-                "expenses": 65000000,
-                "profit": 15000000
-              },
-              {
-                "quarter": "Q2",
-                "revenue": 90000000,
-                "expenses": 70000000,
-                "profit": 20000000
-              },
-              {
-                "quarter": "Q3",
-                "revenue": 90000000,
-                "expenses": 65000000,
-                "profit": 25000000
-              },
-              {
-                "quarter": "Q4",
-                "revenue": 90000000,
-                "expenses": 70000000,
-                "profit": 20000000
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "companies": [
+    {
+      "company_id": 1,
+      "name": "Tech Innovators Inc.",
+      "industry": "Technology",
+      "founded": 1998,
+      "headquarters": "San Francisco, CA",
+      "ceo": "Laura Simmons",
+      "stock_symbol": "TII",
+      "credit_rating": "A",
+      "simulated_stock_price": 245.75,
+      "market_volatility_index": 1.12,
+      "financials": [
+        {
+          "year": 2020,
+          "revenue": 250000000,
+          "expenses": 180000000,
+          "profit": 70000000,
+          "assets": 500000000,
+          "liabilities": 300000000,
+          "employees": 5000,
+          "earnings_surprise_factor": -0.02,
+          "quarterly_breakdown": [
+            { "quarter": "Q1", "revenue": 60000000, "expenses": 40000000, "profit": 20000000 },
+            { "quarter": "Q2", "revenue": 70000000, "expenses": 50000000, "profit": 20000000 },
+            { "quarter": "Q3", "revenue": 60000000, "expenses": 40000000, "profit": 20000000 },
+            { "quarter": "Q4", "revenue": 60000000, "expenses": 50000000, "profit": 10000000 }
+          ]
+        },
+        {
+          "year": 2021,
+          "revenue": 300000000,
+          "expenses": 200000000,
+          "profit": 100000000,
+          "assets": 550000000,
+          "liabilities": 320000000,
+          "employees": 5500,
+          "earnings_surprise_factor": 0.05,
+          "quarterly_breakdown": [
+            { "quarter": "Q1", "revenue": 70000000, "expenses": 50000000, "profit": 20000000 },
+            { "quarter": "Q2", "revenue": 80000000, "expenses": 60000000, "profit": 20000000 },
+            { "quarter": "Q3", "revenue": 75000000, "expenses": 50000000, "profit": 25000000 },
+            { "quarter": "Q4", "revenue": 75000000, "expenses": 50000000, "profit": 25000000 }
+          ]
+        }
+      ]
+    },
+    {
+      "company_id": 2,
+      "name": "Retail Giants LLC",
+      "industry": "Retail",
+      "founded": 1975,
+      "headquarters": "Chicago, IL",
+      "ceo": "David Morales",
+      "stock_symbol": "RGL",
+      "credit_rating": "BBB+",
+      "simulated_stock_price": 87.40,
+      "market_volatility_index": 1.25,
+      "financials": [
+        {
+          "year": 2020,
+          "revenue": 500000000,
+          "expenses": 400000000,
+          "profit": 100000000,
+          "assets": 1000000000,
+          "liabilities": 600000000,
+          "employees": 20000,
+          "earnings_surprise_factor": 0.01,
+          "quarterly_breakdown": [
+            { "quarter": "Q1", "revenue": 120000000, "expenses": 100000000, "profit": 20000000 },
+            { "quarter": "Q2", "revenue": 130000000, "expenses": 100000000, "profit": 30000000 },
+            { "quarter": "Q3", "revenue": 120000000, "expenses": 110000000, "profit": 10000000 },
+            { "quarter": "Q4", "revenue": 130000000, "expenses": 90000000, "profit": 40000000 }
+          ]
+        },
+        {
+          "year": 2021,
+          "revenue": 550000000,
+          "expenses": 450000000,
+          "profit": 100000000,
+          "assets": 1050000000,
+          "liabilities": 650000000,
+          "employees": 21000,
+          "earnings_surprise_factor": -0.03,
+          "quarterly_breakdown": [
+            { "quarter": "Q1", "revenue": 130000000, "expenses": 100000000, "profit": 30000000 },
+            { "quarter": "Q2", "revenue": 140000000, "expenses": 110000000, "profit": 30000000 },
+            { "quarter": "Q3", "revenue": 140000000, "expenses": 120000000, "profit": 20000000 },
+            { "quarter": "Q4", "revenue": 140000000, "expenses": 120000000, "profit": 20000000 }
+          ]
+        }
+      ]
+    },
+    {
+      "company_id": 5,
+      "name": "Global Logistics Corp.",
+      "industry": "Logistics",
+      "founded": 1988,
+      "headquarters": "Rotterdam, Netherlands",
+      "ceo": "Hans Vermeer",
+      "stock_symbol": "GLC",
+      "credit_rating": "A-",
+      "simulated_stock_price": 142.20,
+      "market_volatility_index": 1.18,
+      "financials": [
+        {
+          "year": 2020,
+          "revenue": 350000000,
+          "expenses": 280000000,
+          "profit": 70000000,
+          "assets": 900000000,
+          "liabilities": 500000000,
+          "employees": 12000,
+          "earnings_surprise_factor": -0.01,
+          "quarterly_breakdown": [
+            { "quarter": "Q1", "revenue": 90000000, "expenses": 70000000, "profit": 20000000 },
+            { "quarter": "Q2", "revenue": 85000000, "expenses": 70000000, "profit": 15000000 },
+            { "quarter": "Q3", "revenue": 85000000, "expenses": 70000000, "profit": 15000000 },
+            { "quarter": "Q4", "revenue": 90000000, "expenses": 70000000, "profit": 20000000 }
+          ]
+        },
+        {
+          "year": 2021,
+          "revenue": 400000000,
+          "expenses": 320000000,
+          "profit": 80000000,
+          "assets": 950000000,
+          "liabilities": 520000000,
+          "employees": 12500,
+          "earnings_surprise_factor": 0.04,
+          "quarterly_breakdown": [
+            { "quarter": "Q1", "revenue": 100000000, "expenses": 80000000, "profit": 20000000 },
+            { "quarter": "Q2", "revenue": 100000000, "expenses": 78000000, "profit": 22000000 },
+            { "quarter": "Q3", "revenue": 95000000, "expenses": 76000000, "profit": 19000000 },
+            { "quarter": "Q4", "revenue": 105000000, "expenses": 84000000, "profit": 21000000 }
+          ]
+        }
+      ]
+    }
+  ]
+}
