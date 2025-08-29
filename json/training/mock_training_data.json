@@ -1,0 +1,158 @@
+{
+    "training_sessions": [
+      {
+        "session_id": 10001,
+        "title": "Workplace Safety Basics",
+        "category": "Safety",
+        "trainer": "John Harris",
+        "department": "Operations",
+        "scheduled_date": "2024-09-15",
+        "duration_hours": 2,
+        "location": "Room 101",
+        "attendees": [
+          {"employee_id": 2001, "name": "Alice Johnson", "attendance": "Present"},
+          {"employee_id": 2002, "name": "Bob Smith", "attendance": "Present"},
+          {"employee_id": 2003, "name": "Carol White", "attendance": "Absent"}
+        ],
+        "status": "Completed",
+        "feedback_score": 4.5,
+        "certification": "Workplace Safety Level 1",
+        "materials": [
+          {"file_name": "safety_manual.pdf", "file_type": "pdf"},
+          {"file_name": "emergency_procedures.pptx", "file_type": "pptx"}
+        ]
+      },
+      {
+        "session_id": 10002,
+        "title": "Effective Communication",
+        "category": "Soft Skills",
+        "trainer": "Linda Green",
+        "department": "HR",
+        "scheduled_date": "2024-09-20",
+        "duration_hours": 3,
+        "location": "Room 205",
+        "attendees": [
+          {"employee_id": 2004, "name": "David Brown", "attendance": "Registered"},
+          {"employee_id": 2005, "name": "Emma Davis", "attendance": "Registered"}
+        ],
+        "status": "Upcoming",
+        "feedback_score": null,
+        "certification": null,
+        "materials": [
+          {"file_name": "communication_tips.pdf", "file_type": "pdf"},
+          {"file_name": "role_play_activities.docx", "file_type": "docx"}
+        ]
+      },
+      {
+        "session_id": 10003,
+        "title": "Cybersecurity Awareness",
+        "category": "IT & Security",
+        "trainer": "Michael Lee",
+        "department": "IT",
+        "scheduled_date": "2024-09-18",
+        "duration_hours": 1.5,
+        "location": "Online",
+        "attendees": [
+          {"employee_id": 2006, "name": "Frank Miller", "attendance": "Present"},
+          {"employee_id": 2007, "name": "Grace Wilson", "attendance": "Present"},
+          {"employee_id": 2008, "name": "Henry Taylor", "attendance": "Absent"},
+          {"employee_id": 2009, "name": "Isabella Martinez", "attendance": "Present"}
+        ],
+        "status": "Completed",
+        "feedback_score": 4.8,
+        "certification": "Cybersecurity Awareness Level 1",
+        "materials": [
+          {"file_name": "phishing_simulation.pdf", "file_type": "pdf"},
+          {"file_name": "secure_passwords.docx", "file_type": "docx"}
+        ]
+      },
+      {
+        "session_id": 10004,
+        "title": "Leadership Development",
+        "category": "Management",
+        "trainer": "Sarah Clark",
+        "department": "Management",
+        "scheduled_date": "2024-09-25",
+        "duration_hours": 4,
+        "location": "Room 301",
+        "attendees": [
+          {"employee_id": 2010, "name": "Jack Wilson", "attendance": "Registered"},
+          {"employee_id": 2011, "name": "Kelly Johnson", "attendance": "Registered"}
+        ],
+        "status": "Upcoming",
+        "feedback_score": null,
+        "certification": null,
+        "materials": [
+          {"file_name": "leadership_tools.pdf", "file_type": "pdf"},
+          {"file_name": "team_building_activities.pptx", "file_type": "pptx"}
+        ]
+      },
+      {
+        "session_id": 10005,
+        "title": "Time Management Skills",
+        "category": "Productivity",
+        "trainer": "Laura Adams",
+        "department": "HR",
+        "scheduled_date": "2024-09-12",
+        "duration_hours": 2,
+        "location": "Room 102",
+        "attendees": [
+          {"employee_id": 2012, "name": "Liam Brown", "attendance": "Present"},
+          {"employee_id": 2013, "name": "Mia Davis", "attendance": "Present"},
+          {"employee_id": 2014, "name": "Noah Wilson", "attendance": "Present"}
+        ],
+        "status": "Completed",
+        "feedback_score": 4.2,
+        "certification": "Time Management Essentials",
+        "materials": [
+          {"file_name": "time_management_guide.pdf", "file_type": "pdf"},
+          {"file_name": "daily_planner_template.xlsx", "file_type": "xlsx"}
+        ]
+      },
+      {
+        "session_id": 10006,
+        "title": "Customer Service Excellence",
+        "category": "Customer Service",
+        "trainer": "Tommy Nguyen",
+        "department": "Support",
+        "scheduled_date": "2024-09-22",
+        "duration_hours": 3,
+        "location": "Room 103",
+        "attendees": [
+          {"employee_id": 2015, "name": "Olivia White", "attendance": "Registered"},
+          {"employee_id": 2016, "name": "Peter Black", "attendance": "Registered"},
+          {"employee_id": 2017, "name": "Quinn Lee", "attendance": "Registered"}
+        ],
+        "status": "Upcoming",
+        "feedback_score": null,
+        "certification": null,
+        "materials": [
+          {"file_name": "customer_service_tips.pdf", "file_type": "pdf"},
+          {"file_name": "handling_complaints.docx", "file_type": "docx"}
+        ]
+      },
+      {
+        "session_id": 10007,
+        "title": "Diversity & Inclusion Training",
+        "category": "HR & Compliance",
+        "trainer": "Angela Thompson",
+        "department": "HR",
+        "scheduled_date": "2024-09-10",
+        "duration_hours": 2,
+        "location": "Room 202",
+        "attendees": [
+          {"employee_id": 2018, "name": "Rachel Green", "attendance": "Present"},
+          {"employee_id": 2019, "name": "Steven Clark", "attendance": "Present"},
+          {"employee_id": 2020, "name": "Tina Moore", "attendance": "Present"}
+        ],
+        "status": "Completed",
+        "feedback_score": 4.7,
+        "certification": "Diversity Awareness",
+        "materials": [
+          {"file_name": "diversity_inclusion_guide.pdf", "file_type": "pdf"},
+          {"file_name": "case_studies.docx", "file_type": "docx"}
+        ]
+      }
+    ]
+  }
+  
